@@ -1,4 +1,4 @@
-# 论文积累
+# VLM相关论文（不定期更新）
 ## 综述
 > - [ ] 【2509】【综述：RL MLLM】[GitHub - Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 > - [ ] 【2509】【综述：图像思考】[Github - Awesome-Think-With-Images](https://github.com/zhaochen0110/Awesome_Think_With_Images)
@@ -11,7 +11,6 @@
 > - [ ] 【2504】【综述：VLM RL】[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2504.21277)
 > - [ ] 【2503】【综述】[Large Language Models Post-training: Surveying Techniques from Alignment to Reasoning](https://arxiv.org/abs/2503.06072)【[Code](https://github.com/Mr-Tieguigui/LLM-Post-Training?tab=readme-ov-file)】
 > - [x] **【以往的月】**[**arxiv多模态大模型论文推送**](https://zhuanlan.zhihu.com/c_1862618527757914112)
->
 
 
 
