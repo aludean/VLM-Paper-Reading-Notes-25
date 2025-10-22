@@ -1,333 +1,385 @@
-综述
-[ ] 【2509】【综述：RL MLLM】GitHub - Awesome-RL-based-Reasoning-MLLMs
-[ ] 【2509】【综述：图像思考】Github - Awesome-Think-With-Images
-[ ] 【2509】【综述：RL4LRM】A Survey of Reinforcement Learning for Large Reasoning Models【Code】
-[X] 【2509】【综述：视觉压缩】https://github.com/daixiangzi/Awesome-Token-Compress/
-[X] 【2509】【AI Lab】A Survey of Reinforcement Learning for Large Reasoning Models【Abstract】
-[ ] 【2508】【综述：视觉 RL】Github-Awesome-Visual-Reinforcement-Learning
-[ ] 【2508】【综述：VLM 视频】A Survey on Video Temporal Grounding with Multimodal Large Language Model
-[ ] 【2505】【综述】Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models
-[ ] 【2504】【综述：VLM RL】Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models
-[ ] 【2503】【综述】Large Language Models Post-training: Surveying Techniques from Alignment to Reasoning【Code】
-[X] 【以往的月】arxiv多模态大模型论文推送
+<h1 id="krc4u">论文积累</h1>
+<h2 id="DoAAc">综述</h2>
+> - [ ] 【2509】【综述：RL MLLM】[GitHub - Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
+> - [ ] 【2509】【综述：图像思考】[Github - Awesome-Think-With-Images](https://github.com/zhaochen0110/Awesome_Think_With_Images)
+> - [ ] 【2509】【综述：RL4LRM】[A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)【[Code](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs/tree/main)】
+> - [x] 【2509】【综述：视觉压缩】[https://github.com/daixiangzi/Awesome-Token-Compress/](https://github.com/daixiangzi/Awesome-Token-Compress/)
+> - [x] 【2509】【AI Lab】[A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827)【[Abstract](https://mp.weixin.qq.com/s/OK-yw8bEoRM1qVTu4aQG2g)】
+> - [ ] 【2508】【综述：视觉 RL】[Github-Awesome-Visual-Reinforcement-Learning](https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning)
+> - [ ] <font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">【2508】【综述：VLM 视频】</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">A Survey on Video Temporal Grounding with Multimodal Large Language Model</font>](https://arxiv.org/abs/2508.10922)
+> - [ ] 【2505】【综述】[Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models](https://arxiv.org/abs/2505.18536)
+> - [ ] 【2504】【综述：VLM RL】[Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2504.21277)
+> - [ ] 【2503】【综述】[Large Language Models Post-training: Surveying Techniques from Alignment to Reasoning](https://arxiv.org/abs/2503.06072)【[Code](https://github.com/Mr-Tieguigui/LLM-Post-Training?tab=readme-ov-file)】
+> - [x] **【以往的月】**[**arxiv多模态大模型论文推送**](https://zhuanlan.zhihu.com/c_1862618527757914112)
+>
 
-Company Technical Reports（大厂报告）
-Qwen/Alibaba/Ant
-[ ] 【2509】【Qwen3-VL】【Blog】【Code】
-[ ] 【2509】【Qwen3-Omni】Qwen3-Omni Technical Report【Code】
-[X] 【2508】【基于评分标准的奖励】Reinforcement Learning with Rubric Anchors【更好的验证答案】
-[ ] 【2508】【qwen-dianjin】【Code】【金融 OCR】
-[ ] 【2508】【M3PO】M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following
-[ ] 【2508】【Ovis2.5】Ovis2.5 Technical Report【RLVR 数据：① 选择改填空 ② 图片嵌入词表】
-[ ] 【2506】【Ovis-U1】Ovis-U1 Technical Report【Abstract】【Code】
-[ ] 【2409】【mPLUG-DocOwl2】mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding
-[ ] 【2408】【mPLUG-Owl3】mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models
-Tencent
-[X] 【2509】【PointsReader】POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion【Abstract】【OCR VLM 模型；① 文本渲染 HTML 合成数据 ② 迁移真实 OCR 场景】
-Kwai
-[ ] 【2509】【Keye-VL 1.5】Kwai Keye-VL 1.5 Technical Report
-[ ] 【2508】【Thyme-RL】Thyme: Think Beyond Images【Code】【Data】【图像思考】
-[ ] 【2507】【Keye-VL】Kwai Keye-VL Technical Report【Code】
-[ ] 【2502】【Task Galaxy】TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types【Code】【文档】【数据集标注 pipeline】
-Seed/Bytedance/Douyin
-[ ] 【2509】【SAIL-VL2】SAIL-VL2 Technical Report
-[ ] 【2508】【VeOmni】VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo【Abstract】【全模态训练框架】
-[X] 【2508】【StructVRM】StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models【部分正确性过程 RLVR 奖励】
-[ ] 【2507】【POLARIS】seed 强化学习训练经验-论文【Abstract/Abstract2】【Blog】【Code】【Datasets】【Models】
-InternVL
-[ ] 【2509】【InternVLA-A1】coming【Abstract】【Code】【Dataset】
-[ ] 【2508】【InternVL3.5】InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency
-[ ] 【2508】【InternVL-S1】Intern-S1: A Scientific Multimodal Foundation Model【Code】【Models】【精确解析，物理化学等科学任务】
-[ ] 【2411】【InternVL2-MPO】Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization 【Blog】【Model】【Code】
-Deepseek
-[X] 【2510】【Deepseek-OCR】DeepSeek-OCR: Contexts Optical Compression【Abstract】【Code】【① 二维视觉压缩一维文字 ② 视觉遗忘机制 ③ 模态无关的推理核心】
-[ ] 【2509】【Deepseek V3.2-Exp：DSA】【Abstract】
-[ ] 【2502】【Deepseek：Native Sparse Attention】Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention【Abstract】【压缩 token，有限窗口注意】
-[ ] 【2502】【Janus】
-Kimi
-[ ] 【2508】【OpenCUA】OpenCUA: Open Foundations for Computer-Use Agents【Abstract】【计算机 Agent：港大和kimi的opencua，模型、数据、标注平台、bench等都开源了】
-[ ] 【2506】【Kimi-Researcher】Kimi-Researcher Technical Report【Abstract】
-[ ] 【2504】【Kimi-VL】Kimi-VL Technical Report 【Blog】【Models】【Demo】【Code】
-[ ] 【2501】【Kimi k1.5】Kimi k1.5: Scaling Reinforcement Learning with LLMs 【Blog】
-Meituan
-[ ] 【2509】【LongCat-Flash-Thinking】LongCat-Flash-Thinking Technical Report【多个模型单独训练】
-GLM
-[ ] 【2508】【GLM-4.5V】GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning【Abstract】
-[ ] 【2507】【GLM-4.5】GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models【Blog】【Code】【Models】
-[ ] 【2507】【GLM-4.1V-Thinking】GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning【Code】
-Gemini
-[ ] 【2508】【Genie3】【Abstract】
-[ ] 【2507】【Gemini 2.5Pro & Flash】Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities
-[ ] 【2506】【Gemma 3n】Gemma 3 Technical Report【Abstract】
-Baidu
-[ ] 【2506】【ERNIE 4.5】Announcing the Open Source Release of the ERNIE 4.5 Model Family【Code】
-Rednote
-[ ] 【2508】【dots.vlm1】【Code】
-[ ] 【2506】【dots.llm1】dots.llm1 Technical Report【Code】
-[ ] 【2503】【小红书：奖励模型虚假关联】The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models【Abstract】
-Xiaomi
-[ ] 【2508】【Mimo-VL】MiMo-VL Technical Report【Abstract/Abstract2】【Code】【Model】
-[ ] 【2504】【Mimo】MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining【Code】
-Minimax
-[ ] 【2506】【MiniMax-m1】MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention【Code】
-Step 阶跃星辰
-[ ] 【2507】【Step3】Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding【Abstract】
-Skywork
-Text
-[ ] 【2505】【skyworkor1】Skywork Open Reasoner 1 Technical Report【Abstract】【Code】【Datasets】【Models】【熵坍缩，详细的消融实验】
-MultiModal
-[ ] 【2507】【Skywork R1V3】Skywork-R1V3 Technical Report【Codes】【① 关键推理 token 的熵，②connector 模态对齐】
-[ ] 【2504】【Skywork R1V2】Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning 【Models】【Code】【MPO 和 GRPO 混合推理】
-[ ] 【2504】【Skywork R1V1】Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought
-MiniCPM-V
-[X] 【2508】【MiniCPM-V4.5】MiniCPM-V4.5 Technical Reports【Abstract】【Code】
-LLaVA
-[ ] 【2509】【LLaVA-OneVision-1.5】LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training
-架构改进
-推理压缩
-[ ] 【2505】【Think Silently, Think Fast】Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains【latent token 压缩思维链长度】
-视觉压缩
-[ ] 【2406】【DeepStack】DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs【Abstract/Abstract2】
-Textual/Multimodal Reward Model （奖励模型）
-[ ] 【2509】【BaseReward】BaseReward: A Strong Baseline for Multimodal Reward Model【大量的 trick】
-[ ] 【2509】【RewardDance】RewardDance: Reward Scaling in Visual Generation【Abstract】
-[X] 【2508】【StructVRM】StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models【部分正确性过程 RLVR 奖励】
-[ ] 【2507】【checklist】Checklists Are Better Than Reward Models For Aligning Language Models【清单比奖励模型更适合对齐语言模型】
-[ ] 【2507】【GLM-4.1V-Thinking VLM Reward System】GLM-4.1V-Thinking VLM Reward System
-[ ] 【2507】【POLAR】Pre-Trained Policy Discriminators are General Reward Models【Models】【Code】
-[ ] 【2505】【Skywork-VL Reward】Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning 【Models】【Code】
-[ ] 【2505】【UnifiedReward-Think】Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning 【Blog】【Models】【Datasets】【Code】
-[ ] 【2505】【R1-Reward】R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning 【Model】【Dataset】【Code】
-[ ] 【2505】【WorldPM】WorldPM: Scaling Human Preference Modeling【Model】【Code】
-[ ] 【2504】【DeepSeek-GRM】Inference-Time Scaling for Generalist Reward Modeling【Abstract】
-[ ] 【2503】【小红书：奖励模型虚假关联】The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models【Abstract】
-[ ] 【2503】【VisualPRM】VisualPRM: An Effective Process Reward Model for Multimodal Reasoning【Blog】【Models】【Datasets-Raw】【Datasets-Conversation】【Code】
-[ ] 【2502】【MM-RLHF】MM-RLHF: The Next Step Forward in Multimodal LLM Alignment【Blog】【Models】【Datasets】【Code】【RewardBench】
-[ ] 【2501】【InternLM-XComposer2.5-Reward】InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model【Abstract】【Code】
-Text（纯文本）
-[ ] 【2509】开源RL框架Verlog来了，专为LLM智能体打造，400回合不成问题
-[X] 【2507】【Beyond Binary Rewards】Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty【Abstract】【RLVR 训练经验：正确+诚实，置信度 Reward】
-Image（单图）
-RLVR 训练
-[ ] 【2510】【Rex-Omni】Detect Anything via Next Point Prediction【HF】【目标检测任务 ①使用特殊标记来表示从 0 到 999 的量化坐标 ② 数据 pipeline】
-[X] 【2508】【Pass@K】Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models【Pass@K 比 Pass@1 更加鲁棒】
-[X] 【2508】【FineVision：多模态数据集】【Abstract】
-[X] 【2508】【Vision G1】Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation【大规模全面的 RLVR 数据集】
-[X] 【2507】【Beyond Binary Rewards】Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty【正确+诚实，置信度 Reward】【Abstract】
-[ ] 【2507】【POLARIS】seed 强化学习训练经验-论文 coming【Abstract】【Blog】【Code】【Datasets】【Models】
-[ ] 【2507】【Open vision reasoner】Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning【Blog】【Code】【Models】【MathVision 指标 35，开源时的最高】
-[X] 【2506】【No Free Lunch】No Free Lunch: Rethinking Internal Feedback for LLM Reasoning【内部熵奖励】
-[X] 【2506】【OCR 遮挡】Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models【Abstract】【增强 OCR 识别遮挡能力，减少幻觉】
-[ ] 【2506】【WeThink】WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning【Abstract】【Datasets】【Code】【RLVR 训练经验】
-[ ] 【2506】【Revisual-R1】Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning 【Models】【Code】【Datasets】【先多模态后文本，推理能力迁移】
-[ ] 【2506】【SynthRL】SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis 【Model】【Datasets】【Code】【Query 数据增强为更难的变体】
-[ ] 【2505】【MoDoMoDo】MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning 【Blog】【Datasets】【Code】【大规模数据配比策略】
-[ ] 【2505】【VisualSphinx】VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL 【Blog】【Model】【Datasets】【Code】【大规模数据合成；公务员行测题数据】
-[ ] 【2505】【MM-UPT】Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO 【Model】【Dataset】【Code】【RLVR 训练经验】
-[ ] 【2505】【Orsta】One RL to See Them All: Visual Triple Unified Reinforcement Learning 【Models】【Datasets】【Code】【RLVR 训练经验：iou 奖励设计】
-[ ] 【2505】【X-Reasoner】X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains 【Code】【文本推理能力泛化到多模态】
-[ ] 【2504】【VL-Rethinker : ViRL39K】VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning 【Blog】【Models】【Dataset Code】【①SSR 样本重放解决优势消失】
-[ ] 【2504】【Perception-R1】Perception-R1: Pioneering Perception Policy with Reinforcement Learning 【Model】【Datasets】【Code】【① 显式 CoT 不是对所有任务都有效，靠直觉的任务思考多余；② 合适的奖励设计带来健康的学习曲线 ③ 困惑度是 RL 对 SFT 的优势】
-[ ] 【2504】【SOTA with Less : ThinkLite-VL】SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement 【Model】【Datasets】【Code】【课程学习： ① 蒙特卡洛树搜索衡量难度；② 构建有挑战性的样本】
-[ ] 【2504】【VLM-R1】VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model 【Model】【Dataset】【Demo】【Code】【强化视觉任务】
-[ ] 【2504】【CrowdVLM-R1】CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward 【Dataset】【Code】【RLVR 训练经验：FGRPR 精细的 Reward 设计】
-[ ] 【2503】【Reason-RFT】Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning 【Blog】【Dataset】【Code】【RLVR 训练经验：训练范式】
-[ ] 【2503】【OpenVLThinker】OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement 【Model】【Code】【Datasets】【RLVR 训练经验：早期数据合成】
-[ ] 【2503】【OThink-MR1】OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning【RLVR 训练经验：没有开源】
-[ ] 【2503】【R1-Onevision】R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization 【Model】【Dataset】【Demo】【Code】【RLVR 训练经验：图像形式化文本表示】
-[X] 【2503】【LMM-R1：VerMulti】LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL 【Code】【Datasets】【Blog】【RLVR 训练经验：两阶段 ① 基础推理增强 ② 多模态泛化训练】
-[ ] 【2503】【Curr-ReFT】Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning 【Models】【Dataset】【Code】【RLVR 训练经验：课程强化微调（Curr-ReFT）解决 OOD】
-[ ] 【2503】【VisualThinker-R1-Zero】R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model 【Code】【RLVR 训练经验：早期复现经验】
-[X] 【2503】【Vision-R1】Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models 【Code】【Blog】【Datasets-Cold-Start】【Datasets-RLVR】【① 构造冷启动数据 ②渐进式思维抑制训练（PTST）策略】
-[ ] 【2503】【Visual-RFT】Visual-RFT: Visual Reinforcement Fine-Tuning 【Blog】【Datasets】【Code】【IOU 等奖励设计】
-[X] 【2503】【MM-Eureka：MMK12】MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning 【Models】【Datasets-MMK12】【Dataset-MM-Eureka】【Code】【高质量多模态数学推理数据集】
-[ ] 【2502】【R1-V 项目训练经验 Blog】RLVR in Vision Language Models: Findings, Questions and Directions
-[ ] 【2502】【Task Galaxy】TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types【Code】【文档】【数据集标注 pipeline】
-[ ] 【2501】【Virgo】Virgo: A Preliminary Exploration on Reproducing o1-like MLLM 【Model】【Code】【文本推理能力可以跨模态迁移】
-[ ] 【2412】【Datasets】【Mulberry】Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search 【Model】【Code】【集成学习多个模型协蒙特卡洛搜索树构建Mulberry-260k】
-AutoThink
-[ ] 【2509】【MARS2】Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond
-[ ] 【2508】【R4B】R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning
-[X] 【2508】【deep think with confidence】Deep Think with Confidence
-[ ] 【2506】【LC-R1】Optimizing Length Compression in Large Reasoning Models【Abstract】【Code】【精准减少 think 长度】
-[ ] 【2506】【SRPO】SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning 【Blog】【Dataset】【Code】【奖励反思 think】
-[ ] 【2505】【Qwen3 的 AutoThink】Qwen3-RL训练过程详解
-[ ] 【2505】【PixelThink】PixelThink: Towards Efficient Chain-of-Pixel Reasoning 【Blog】【Code】【AutoThink：压缩 token】
-[ ] 【2505】【MLRM-Halu】More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models 【Blog】【Benchmark】【Code】【解决长推理容易产生幻觉的问题】
-[ ] 【2505】【Learning When to Think】Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL【Abstract】【Code】【Datasets】【自适应切换长短思考】
-[ ] 【2505】【Thinkless】Thinkless: LLM Learns When to Think【Code】【Models】【Datasets-Warmup】【Datasets-RL】【AutoThink，自适应思考】
-[ ] 【2505】【小模型推理效率】Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement【AutoThink】
-[ ] 【2505】【ToN : Think Efficiency Information-Theoretic】Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens【AutoThink】
-[X] 【2505】【ToN math sft】Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models 【Models】【Datasets】【Code】【AutoThink】
-[ ] 【2504】【FAST】Fast-Slow Thinking for Large Vision-Language Model Reasoning 【Code】【AutoThink】
-[ ] 【2504】【VLAA-Thinking】SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models【Models】【Dataset】【Code】【Blog】【AutoThink：伪推理，有效思考】
-[ ] 【2503】【Think or Not Think】Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning 【Models】【Datasets】【Code】【AutoThink：视觉感知任务不需要 CoT】
-GRPO 改进
-[ ] 【2510】【综述】PPO,GRPO,DPO,ARPO算法及其 40+变种｜HF Papers 论文盘点
-[ ] 【2510】【ASPO】ASPO: Asymmetric Importance Sampling Policy Optimization【Abstract】
-[ ] 【2508】【GFPO 微软】Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning
-[ ] 【2508】【GSPO】Group Sequence Policy Optimization【Abstract】
-[ ] 【2507】【GMPO】Geometric-Mean Policy Optimization【Abstract】
-[ ] 【2507】【GHPO】GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning【奖励稀疏，学习停滞，课程学习，math 提升】
-[ ] 【2507】【QPRO】Quantile Reward Policy Optimization: Alignment with Pointwise Regression and Exact Partition Functions【Abstract】【相对百分比奖励】
-[ ] 【2506】【SRPO】SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning 【Blog】【Dataset】【Code】【奖励反思 think】
-[X] 【2505】【GiGPO】Group-in-Group Policy Optimization for LLM Agent Training
-[X] 【2505】【A*-PO】Accelerating RL for LLM Reasoning with Optimal Advantage Regression
-[ ] 【2505】【NFT 负意识微调】Bridging Supervised Learning and Reinforcement Learning in Math Reasoning【实现了 NFT 负监督微调等价于 GRPO】
-[ ] 【2505】【R1-ShareVL】R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO 【Code】【Models】【Datasets】【ShareGRPO缓解RL中稀疏奖励和优势消失问题，扩展问题空间，共享问题轨迹】
-[ ] 【2505】【TrustGRPO / SophiaVL-R1】SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward 【Models】【Datasets】【Code】【强化学习过程奖励】
-[ ] 【2505】【DPO vs GRPO】Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO
-[ ] 【2504】【VAPO】VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks
-[ ] 【2503】【DrGRPO】Understanding R1-Zero-Like Training: A Critical Perspective【Abstract】
-[ ] 【2503】【DAPO】DAPO: An Open-Source LLM Reinforcement Learning System at Scale【Blog】【Code】【Datasets】【Model】
-[ ] 【2503】【stepGRPO / R1-VL】R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization 【Model】【Code】【步骤 Reward】
-[X] 【2502】【SPO】Self-Supervised Prompt Optimization
-未归类
-[ ] 【2506】【ViCrit】ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs 【Models】【Datasets】【Code】【解决幻觉】
-[ ] 【2506】【Vision Matters】Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning 【Model】【Datasets】【Code】【视觉扰动增强视觉模态】
-[ ] 【2506】【ViGaL】Play to Generalize: Learning to Reason Through Game Play 【Blog】【Model】【Code】【游戏训练迁移到推理能力】
-[ ] 【2506】【RAP】Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning 【Code】
-[ ] 【2506】【RACRO】Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning 【Models】【Demo】【Code】
-[ ] 【2506】【Rex-Thinker】Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning 【Blog】【Model】【Dataset】【Demo】【Code】【grounding 推理可解释性】
-[ ] 【2505】【DINO-R1】DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models 【Blog】【Code】【对 DINO 这种传统视觉模型做上下文强化学习】
-[ ] 【2505】【ViGoRL】Grounded Reinforcement Learning for Visual Reasoning 【Blog】【Code】【grounding 推理】
-[ ] 【2505】【Jigsaw-R1】Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles 【Datasets】【Code】
-[ ] 【2505】【VRAG-RL】VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning 【Models】【Code】
-[ ] 【2505】【SATORI-R1】SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards 【Model】【Dataset】【Code】
-[X] 【2505】【URSA】URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics 【Model】【Datasets】【Code】【指标真实性存疑？高质量 math 数据集合成】
-[ ] 【2505】【GRE Suite】GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains 【Code】【地理定位推理】
-[ ] 【2505】【STAR-R1】STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs 【Code】【空间推理能力】
-[ ] 【2505】【VARD (generation)】VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL
-[ ] 【2505】【Visionary-R1】Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning 【Blog】【Code】【模态平衡：推理前先解释图像】
-[ ] 【2505】【VisualQuality-R1】VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank 【Models】【Code】【强化图像质量评估任务】
-[ ] 【2505】【UniVG-R1】UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning 【Blog】【Model】【Dataset】【Code】【grounding 推理】
-[ ] 【2505】【G1】G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning 【Code】【VLM-Gym 环境，强化视觉游戏】
-[ ] 【2505】【VisionReasoner】VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning 【Model】【Dataset】【Code】【框架把多种视觉推理任务结构化规范化处理】
-[ ] 【2505】【GuardReasoner-VL】GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning 【Code】【Datasets-JSON】【Datasets-Images】【Models】【安全审核推理】
-[ ] 【2504】【Relation-R1】Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension 【Code】【多实体之间视觉语义结构化】
-[ ] 【2504】【R1-SGG】Compile Scene Graphs with Reinforcement Learning 【Code】【视觉表征结构化提取】
-[ ] 【2504】【NoisyRollout】Reinforcing Visual Reasoning with Data Augmentation 【Models】【Datasets】【Code】【视觉干扰，数据增强】
-[ ] 【2504】【Qwen-AD】Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning 【Code】【假设推理，主动推理】
-[ ] 【2504】【SimpleAR (generation)】SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL 【Models】【Code】【自回归生成架构】
-[ ] 【2504】【MAYE】Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme 【Dataset】【Code】【简化的 RL 训练框架和评估，过程动态可解释】
-[ ] 【2503】【Q-Insight】Q-Insight: Understanding Image Quality via Visual Reinforcement Learning 【Code】【Model】【图像质量评估】
-[ ] 【2503】【Seg-Zero】Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement 【Model】【Dataset】【Code】【RL 训练思维链增强图像分割效果】
-[ ] 【2502】【WebLI-100B】Scaling Pre-training to One Hundred Billion Data for Vision Language Models【Abstract】【100B 的数据集】
-[X] 【2501】【MCQAutoConverter】Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation【Blog】【Model】【Code】【open ended 转化为 mcq】
-[ ] 【2501】【Text-to-image COT】Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step 【Blog】【Datasets】【Code】【图像生成：验证 CoT】
-[ ] 【2411】【Insight-V】Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models 【Model】【Code】【古早的 CoT 思路】
-模态融合 & 表征
-图文交错思维链
-[ ] 【2510】【MathCanvas】MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning【① 大语言模型执行内在的 VCoT 推理解决数学问题 ② 构建了两个大规模语料库，用于两阶段训练】
-[ ] 【2507】【Zebra-CoT】Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning【图像思考：过程有效的视觉文本交替的数据集】
-视觉表征
-[ ] 【2307】【Meta-Transformer】Meta-Transformer: A Unified Framework for Multimodal Learning
-[ ] 【2307】【UnIVAL】UnIVAL: Unified Model for Image, Video, Audio and Language Tasks
-原生多模态融合
-[ ] 【2510】【From Pixels to Words】From Pixels to Words -- Towards Native Vision-Language Primitives at Scale
-[ ] 【2510】【SAIL-embedding】SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model
-[ ] 【2504】【SAIL】The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer【Abstract】
-Latent Reasoning
-【论文归纳整理】Latent Space Reasoning
-latent reasoning用来推理是误入歧途了
-Awesome-Latent-Reasoning
-Awesome-Latent-CoT
-stable-latent-reasoning
-[ ] 【2510】【Patch-as-Decodable-Token】【颜水成】Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs【Abstract】
-[ ] 【2510】【SwiReasoning】SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs
-[ ] 【2509】【Latent Visual Reasoning】Latent Visual Reasoning【视觉 logits 参与输出和思维】
-[ ] 【2507】【综述】A Survey on Latent Reasoning【Abstract】【Code】
-[ ] 【2507】【综述】Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning【Awesome-Latent-CoT】
-[ ] 【2506】【No Free Lunch】No Free Lunch: Rethinking Internal Feedback for LLM Reasoning【内部熵奖励】
-[ ] 【2505】【Think Silently, Think Fast】Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains【latent token 压缩思维链长度】
-[ ] 【2505】【Soft Thinking】Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space【Code】
-[ ] 【2505】【HRPO】Hybrid Latent Reasoning via Reinforcement Learning
-[ ] 【2505】From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning【Yann LeCun】
-[ ] 【2505】Reinforced Latent Reasoning for LLM-based Recommendation
-[ ] 【2504】Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models
-[ ] 【2503】Reasoning to Learn from Latent Thoughts
-[ ] 【2503】Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation
-[ ] 【2502】Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach【Abstract/Abstract2】【模仿脑内循环】
-[ ] 【2502】Reasoning with Latent Thoughts: On the Power of Looped Transformers
-[ ] 【2502】Self-Enhanced Reasoning Training: Activating Latent Reasoning in Small Models for Enhanced Reasoning Distillation
-[ ] 【2412】【CoConut】Training Large Language Models to Reason in a Continuous Latent Space【Abstract】
-[ ] 【2412】【Byte Latent Transformer】【Meta】Byte Latent Transformer: Patches Scale Better Than Tokens【Abstract】
-[ ] 【2411】Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding
-[ ] 【2411】Interleaved-Modal Chain-of-Thought【Abstract】
-[ ] 【2411】Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?【ACL】
-[ ] 【2312】LaRS: Latent Reasoning Skills for Chain-of-Thought Reasoning
-图像思考
-[ ] 【2509】【Mini-o3】Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search【Code】
-[ ] 【2505】【知乎】视觉推理四篇：DeepEyes、TwGI、PixelReasoner、VisualPlanner
-[ ] 【2505】【Active-O3】Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO 【Blog】【Model】【Code】【图像思考：主动视觉感知】
-[ ] 【2505】【v1】v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning 【Model】【Code】【图像思考： gpt-o3 图片多次访问】
-[ ] 【2505】【VLM-R^3】VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought 【图像思考】
-[ ] 【2505】【Pixel Reasoner】Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning 【Blog】【Models】【Datasets】【Demo】【Code】【图像思考】
-[ ] 【2505】【GRIT】GRIT: Teaching MLLMs to Think with Images 【Blog】【Demo】【Code】【Datasets】【图像思考：模态交互，grounding】
-[ ] 【2505】【Chain-of-Focus】Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL 【Blog】【Datasets】【Models】【Code】【图像思考；自适应缩放】
-[ ] 【2505】【DeepEyes】Incentivizing "Thinking with Images" via Reinforcement Learning 【Blog】【Model】【Dataset】【Code】【图像思考】
-[ ] 【2505】【Visual-ARFT】Visual Agentic Reinforcement Fine-Tuning 【Models】【Datasets】【Code】【图像思考：agent】
-[ ] 【2505】【VPRL：Visual Planning】Visual Planning: Let’s Think Only with Images 【Code】【图像思考：纯视觉规划，独立于文本】
-[ ] 【2505】【OpenThinkIMG】OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning 【Model】【Datasets】【Code】【图像思考：Agent，V-ToolRL】
-单模态虚假关联
-[ ] 【2508】【LookBack】Look-Back: Implicit Visual Re-focusing in MLLM Reasoning【Abstract】
-[ ] 【2503】【小红书：奖励模型虚假关联】The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models【Abstract】
-Video（视频）
-空间理解
-[X] 【2507】【MindJourney】【NIPS25】MindJourney: Test-Time Scaling with World Models for Spatial Reasoning 【blog】
-  ○ 世界模型+vlm促进空间推理 认知心理学中核心是构建认知地图，world model相当于直接想象画面，更直观，例如SpaceR则相当于文字形式，属于两种不同道路
-[ ] 【2505】【SpaceR】【NIPS25】SpaceR: Reinforcing MLLMs in Video Spatial Reasoning 【Model】【Dataset】【Code】
-  ○ 比较全面 包含grpo类强化学习 认知地图构建（文字版，json结构形式），完整开源数据等
-[ ] 【2506】【OmniSpatial】【NIPS25】OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models 【blog】【Dataset】【Code】
-  ○ 主要做bench 分了很多类别 没太大用 数据构建可参考
-[ ] 【2506】【MindCube】Spatial Mental Modeling from Limited Views 【blog】
-  ○ 李飞飞组 主要详细讨论认知地图的构建 感觉不如world model方法
-[ ] 【2412】【VSIbench】Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces 【blog】
-  ○ 李飞飞组 空间理解奠基性文章之一 vsibench基本属于空间理解必备实验 不过基本基于scannet（第一人称 室内）比较局限 且问题范式不够多样化 估计是暂时性的bench
-利用VGGT: Visual Geometry Grounded Transformer作为空间encoder：
-[X] 【2505】【NIPS25】【VG-LLM】Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors 【Model】【Dataset】【Code】
-  ○ 最中规中矩的做法 vggt输出特征直接投影到vision encoder同维度，暴力相加或concat，无RL，实测效果比不上原模型
-[X] 【2505】【NIPS25】【Spatial-MLLM】Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence 【blog】
-  ○ 模型架构和vgllm类似（额外添加一些抽帧策略），但数据集根据scannet自行构建，且包含cold start加grpo
-[ ] 【2505】【VLM-3R】VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction 【blog】
-  ○ 类似上面俩 但encoder不是mlp 用的q-former来嵌入到llm 以及提出vstibench（时空类型mcq，vsibench此类时-空的数据较少）
 
-Video RL
-[ ] 【2510】【综述】Video-LMM后训练综述：GRPO强化学习驱动视频推理新范式
-细粒度视频理解
-流式文本/视频理解
-视频流
-[ ] 【2510】【RTFM】RTFM: A Real-Time Frame Model【实时帧世界模型】
-[ ] 【2510】【StreamingVLM】StreamingVLM: Real-Time Understanding for Infinite Video Streams
-[ ] 【2509】【StreamForest】StreamForest: Efficient Online Video Understanding with Persistent Event Memory【Abstract】
-[ ] 【2504】【Streaming Multitask】【ICCV25】Learning Streaming Video Representation via Multitask Training【上交谢伟迪正在升级的工作】
-[ ] 【2504】【LiveCC】【CVPR25】LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale【Blog】
-[ ] 【2406】【CVPR24】VideoLLM-online: Online Video Large Language Model for Streaming Video【Code】
-文本流
-[ ] 【2309】【StreamingLLM】Efficient Streaming Language Models with Attention Sinks【Abstract】【Code】
-Chain of Frames
-[ ] 【2510】【Abstract】【CoF 如何让帧间逻辑从「隐式对齐」变成「显式思考」】
-未归类
-[X] 【2508】【SLFG】Enhancing Long Video Question Answering with Scene-Localized Frame Grouping 【Blog】【Dataset】【Benchmark 论文】
-[ ] 【2507】【LLaVA-ST】LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding 【Code】【Model】【Dataset】【Benchmark】
-[ ] 【2507】【Time-R1】Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding 【Code】【Model】【Dataset】【Blog】
-[ ] 【2507】【VideoExpert】VideoExpert: Augmented LLM for Temporal-Sensitive Video Understanding
-[ ] 【2506】【DeepVideo-R1】DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO 【Code】
-[ ] 【2506】【ReFoCUS】ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding
-[ ] 【2506】【video-SALMONN 2】video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models 【】【Code】【】
-[ ] 【2505】【TRACE】TRACE: Temporal Grounding Video LLM via Causal Event Modeling【Code】【Model】【Dataset】
-[ ] 【2505】【TW-GRPO】Reinforcing Video Reasoning with Focused Thinking 【Model】【Code】
-[ ] 【2505】【Spatial-MLLM】Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence 【Blog】【Model】【Code】
-[ ] 【2505】【VAU-R1】VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning 【Blog】【Dataset】【Code】
-[ ] 【2505】【MUSEG】MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding 【Models】【Code】
-[ ] 【2505】【VerIPO】VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization 【Model】【Code】
-[X] 【2504】【slow fast LLaVA】【keye1.5 使用了】【Abstract】
-[ ] 【2504】【TinyLLaVA-Video-R1】TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning 【Model】【Code】
-[ ] 【2504】【VideoChat-R1】VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning 【Model】【Code】
-[ ] 【2504】【Spatial-R1】Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning 【Code】
-[ ] 【2504】【R1-Zero-VSI】Improved Visual-Spatial Reasoning via R1-Zero-Like Training 【Code】
-[ ] 【2503】【SEED-Bench-R1】Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 【Dataset】【Code】
-[ ] 【2503】【Video-R1】Video-R1: Reinforcing Video Reasoning in MLLMs 【Model】【Dataset】【Code】【视频推理，OCR 奖励】
-[ ] 【2503】【TimeZero】TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM 【Code】【Model】【视频时序定位】
-[ ] 【2401】【TimeSuite】TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning【Code】【Model】【Dataset】
-[ ] 【2411】【Seq2Time】Seq2Time: Sequential Knowledge Transfer for Video LLM Temporal Grounding
+
+<h2 id="Evn5N">Company Technical Reports（大厂报告）</h2>
+<h3 id="XquUS">Qwen/Alibaba/Ant</h3>
+- [ ] 【2509】【Qwen3-VL】【[Blog](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)】【[Code](https://github.com/QwenLM/Qwen3-VL)】
+- [ ] 【2509】【Qwen3-Omni】[Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765)【[Code](https://github.com/QwenLM/Qwen3-Omni?tab=readme-ov-file)】
+- [x] 【2508】【基于评分标准的奖励】[Reinforcement Learning with Rubric Anchors](https://arxiv.org/abs/2508.12790)【更好的验证答案】
+- [ ] 【2508】【qwen-dianjin】【[Code](https://github.com/aliyun/qwen-dianjin)】【金融 OCR】
+- [ ] 【2508】【M3PO】[M3PO: Multimodal-Model-Guided Preference Optimization for Visual Instruction Following](https://arxiv.org/abs/2508.12458v1)
+- [ ] 【2508】【Ovis2.5】[Ovis2.5 Technical Report](https://arxiv.org/abs/2508.11737)【RLVR 数据：① 选择改填空 ② 图片嵌入词表】
+- [ ] 【2506】【Ovis-U1】[Ovis-U1 Technical Report](https://arxiv.org/abs/2506.23044)【[Abstract](https://zhuanlan.zhihu.com/p/1925118968999426044?share_code=XrZIKxj5JN7R&utm_psn=1925328238244259396)】【[Code](https://github.com/AIDC-AI/Ovis-U1)】
+- [ ] 【2409】【mPLUG-DocOwl2】[mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420)
+- [ ] 【2408】【mPLUG-Owl3】[mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models](https://arxiv.org/abs/2408.04840)
+
+<h3 id="DvP0C">Tencent</h3>
+- [x] 【2509】【PointsReader】[POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion](http://arxiv.org/abs/2509.01215)【[Abstract](https://mp.weixin.qq.com/s/M68X6iMm67XcOJ99TdeP9Q)】【OCR VLM 模型；① 文本渲染 HTML 合成数据 ② 迁移真实 OCR 场景】
+
+<h3 id="d1WAY">Kwai</h3>
+- [ ] 【2509】【Keye-VL 1.5】[Kwai Keye-VL 1.5 Technical Report](https://arxiv.org/abs/2509.01563)
+- [ ] 【2508】【Thyme-RL】[Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630)【[Code](https://github.com/yfzhang114/Thyme)】【[Data](https://huggingface.co/Kwai-Keye/Thyme-RL)】【图像思考】
+- [ ] 【2507】【Keye-VL】[Kwai Keye-VL Technical Report](https://arxiv.org/abs/2507.01949)【[Code](https://github.com/Kwai-Keye/Keye)】
+- [ ] 【2502】【Task Galaxy】[TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types](https://arxiv.org/abs/2502.09925)【[Code](https://github.com/Kwai-YuanQi/TaskGalaxy)】【[文档](https://linote.lixiang.com/docs/doceB5E8BE20e3e1993EA207d9a)】【数据集标注 pipeline】
+
+<h3 id="wUn8c">Seed/Bytedance/Douyin</h3>
+- [ ] 【2509】【SAIL-VL2】[SAIL-VL2 Technical Report](https://arxiv.org/abs/2509.14033)
+- [ ] 【2508】【VeOmni】[VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](https://arxiv.org/abs/2508.02317)【[Abstract](https://mp.weixin.qq.com/s/A1CdiEiSaGrh_aH_ggBINg)】【全模态训练框架】
+- [x] 【2508】【StructVRM】[StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models](https://arxiv.org/abs/2508.05383)【部分正确性过程 RLVR 奖励】
+- [ ] 【2507】【POLARIS】**<font style="color:#DF2A3F;">seed 强化学习训练经验-论文</font>**【[Abstract](https://zhuanlan.zhihu.com/p/1930601703209665224?share_code=19C2YqVjfQrWP&utm_psn=1930942419270112996)/[Abstract2](https://mp.weixin.qq.com/s/6ohGURiGs9z-Osh_Ew7Grw)】【[Blog](https://honorable-payment-890.notion.site/POLARIS-A-POst-training-recipe-for-scaling-reinforcement-Learning-on-Advanced-ReasonIng-modelS-1dfa954ff7c38094923ec7772bf447a1)】【[Code](https://github.com/ChenxinAn-fdu/POLARIS)】【[Datasets](https://huggingface.co/datasets/POLARIS-Project/Polaris-Dataset-53K)】【[Models](https://huggingface.co/POLARIS-Project/Polaris-4B-Preview)】
+
+<h3 id="uF6UH">InternVL</h3>
+- [ ] 【2509】【InternVLA-A1】coming【[Abstract](https://mp.weixin.qq.com/s/CvGF823B1HbGR7m7f2Kx3w)】【[Code](https://github.com/InternRobotics/InternVLA-A1)】【[Dataset](https://huggingface.co/datasets/InternRobotics/InternData-A1)】
+- [ ] 【2508】【InternVL3.5】[InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265)
+- [ ] 【2508】【InternVL-S1】[Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)【[Code](https://github.com/InternLM/Intern-S1)】【[Models](https://huggingface.co/internlm/Intern-S1)】【精确解析，物理化学等科学任务】
+- [ ] <font style="color:rgb(31, 35, 40);">【2411】【InternVL2-MPO】</font>[<font style="color:rgb(9, 105, 218);">Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization</font>](https://arxiv.org/abs/2411.10442)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)<font style="color:rgb(31, 35, 40);">】</font>
+
+<h3 id="jWnl4">Deepseek</h3>
+- [x] 【2510】【Deepseek-OCR】DeepSeek-OCR: Contexts Optical Compression【[Abstract](https://mp.weixin.qq.com/s/I7-5S-4T-gr0S9pdqB5JQg)】【[Code](https://github.com/deepseek-ai/DeepSeek-OCR)】【① 二维视觉压缩一维文字 ② 视觉遗忘机制 ③ 模态无关的推理核心】
+- [ ] 【2509】【Deepseek V3.2-Exp：DSA】【[Abstract](https://mp.weixin.qq.com/s/WYze9rEZnuZ9l1Y132VJmA)】
+- [ ] 【2502】【Deepseek：Native Sparse Attention】[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)【[Abstract](https://zhuanlan.zhihu.com/p/24604821449)】【压缩 token，有限窗口注意】
+- [ ] 【2502】【Janus】
+
+<h3 id="KAIH4">Kimi</h3>
+- [ ] 【2508】【OpenCUA】[OpenCUA: Open Foundations for Computer-Use Agents](https://arxiv.org/abs/2508.09123)【[Abstract](https://mp.weixin.qq.com/s/yUV9zwvjliIu72X9qG5crg)】【计算机 Agent：港大和kimi的opencua，模型、数据、标注平台、bench等都开源了】
+- [ ] 【2506】【Kimi-Researcher】[Kimi-Researcher Technical Report](https://moonshotai.github.io/Kimi-Researcher/)【[Abstract](https://mp.weixin.qq.com/s/YV4M8YNZ5hnzfxaFQ7PL9A)】
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Kimi-VL】</font>[<font style="color:rgb(9, 105, 218);">Kimi-VL Technical Report</font>](https://arxiv.org/abs/2504.07491)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://github.com/MoonshotAI/Kimi-VL)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/moonshotai/Kimi-VL-A3B-Thinking)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/MoonshotAI/Kimi-VL)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2501】【Kimi k1.5】</font>[<font style="color:rgb(9, 105, 218);">Kimi k1.5: Scaling Reinforcement Learning with LLMs</font>](https://arxiv.org/abs/2501.12599)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://github.com/MoonshotAI/Kimi-k1.5)<font style="color:rgb(31, 35, 40);">】</font>
+
+<h3 id="Vafuo">Meituan</h3>
+- [ ] 【2509】【LongCat-Flash-Thinking】[LongCat-Flash-Thinking Technical Report](https://arxiv.org/pdf/2509.18883)【多个模型单独训练】
+
+<h3 id="z2oH5">GLM</h3>
+- [ ] 【2508】【GLM-4.5V】[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)【[Abstract](https://www.zhihu.com/question/1938349587124414086/answer/1938353706539160545?share_code=vJVspsib1UWK&utm_psn=1938527782561874565)】
+- [ ] 【2507】【GLM-4.5】[GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)【[Blog](http://z.ai/blog/glm-4.5)】【[Code](https://github.com/zai-org/GLM-4.5)】【[Models](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b)】
+- [ ] 【2507】【GLM-4.1V-Thinking】[GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)【[Code](https://github.com/THUDM/GLM-4.1V-Thinking)】
+
+<h3 id="e07pL">Gemini</h3>
+- [ ] 【2508】【Genie3】【[Abstract](https://mp.weixin.qq.com/s/DZBFZ86kfA1CuNCuyXIkfg)】
+- [ ] 【2507】【Gemini 2.5Pro & Flash】[Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)
+- [ ] 【2506】【Gemma 3n】[Gemma 3 Technical Report](https://arxiv.org/abs/2503.19786)【[Abstract](https://mp.weixin.qq.com/s/Z96Wqg61H83L3Od_M3a0iw)】
+
+<h3 id="dmY5E">Baidu</h3>
+- [ ] 【2506】【ERNIE 4.5】[Announcing the Open Source Release of the ERNIE 4.5 Model Family](https://yiyan.baidu.com/blog/posts/ernie4.5/)【[Code](https://github.com/PaddlePaddle/ERNIE)】
+
+<h3 id="TJiKk">Rednote</h3>
+- [ ] 【2508】【dots.vlm1】【[Code](https://github.com/rednote-hilab/dots.vlm1)】
+- [ ] 【2506】【dots.llm1】[dots.llm1 Technical Report](https://www.arxiv.org/abs/2506.05767)【[Code](https://github.com/rednote-hilab/dots.llm1)】
+- [ ] 【2503】【小红书：奖励模型虚假关联】[The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](https://arxiv.org/abs/2503.03122)【[Abstract](https://www.51cto.com/article/819040.html)】
+
+<h3 id="CQlxv">Xiaomi</h3>
+- [ ] 【2508】【Mimo-VL】[MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)【[Abstract](https://mp.weixin.qq.com/s/8YCDIkFAuOyXPWD-7lu6Bg)/[Abstract2](https://blog.csdn.net/Landy_Jay/article/details/148535482)】【[Code](https://github.com/XiaomiMiMo/MiMo-VL)】【[Model](https://huggingface.co/collections/XiaomiMiMo/mimo-vl-68382ccacc7c2875500cd212)】
+- [ ] 【2504】【Mimo】[MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining](https://arxiv.org/abs/2505.07608)【[Code](https://github.com/XiaomiMiMo/MiMo)】
+
+<h3 id="sQEYG">Minimax</h3>
+- [ ] 【2506】【MiniMax-m1】[MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)【[Code](https://github.com/MiniMax-AI/MiniMax-M1)】
+
+<h3 id="vmrPc">Step 阶跃星辰</h3>
+- [ ] 【2507】【Step3】[Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding](https://arxiv.org/abs/2507.19427)【[Abstract](https://mp.weixin.qq.com/s/RKsSTgbzP1A-xC8ADmZ2kw)】
+
+<h3 id="V7ZJ0">Skywork</h3>
+**Text**
+
+- [ ] 【2505】【skyworkor1】[Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)【[Abstract](https://mp.weixin.qq.com/s/KNJtPM41iwSO3RbNmh00cw)】【[Code](https://github.com/SkyworkAI/Skywork-OR1)】【[Datasets](https://huggingface.co/datasets/Skywork/Skywork-OR1-RL-Data)】【[Models](https://huggingface.co/collections/Skywork/skywork-or1-67fa1bcb41b436ef2def76b9)】【熵坍缩，详细的消融实验】
+
+**MultiModal**
+
+- [ ] 【2507】【<font style="color:rgb(31, 35, 40);">Skywork R1V3</font>】[Skywork-R1V3 Technical Report](https://arxiv.org/abs/2507.06167)【[Codes](https://github.com/SkyworkAI/Skywork-R1V)】【① 关键推理 token 的熵，②connector 模态对齐】
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Skywork R1V2】</font>[<font style="color:rgb(9, 105, 218);">Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning</font>](https://arxiv.org/abs/2504.16656)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/Skywork/skywork-r1v2-68075a3d947a5ae160272671)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/SkyworkAI/Skywork-R1V)<font style="color:rgb(31, 35, 40);">】【MPO 和 GRPO 混合推理】</font>
+- [ ] 【2504】【Skywork R1V1】[Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)
+
+<h3 id="Pnxxh">MiniCPM-V</h3>
+- [x] 【2508】【MiniCPM-V4.5】[MiniCPM-V4.5 Technical Reports](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf)【[Abstract](https://mp.weixin.qq.com/s/quPPB7C5dYq2o5tp8f_kGA)】【[Code](https://github.com/OpenBMB/MiniCPM-o)】
+
+<h3 id="mQw3m">LLaVA</h3>
+- [ ] 【2509】【LLaVA-OneVision-1.5】[LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661)
+
+<h2 id="HXwpW">架构改进</h2>
+<h3 id="IV4pU">推理压缩</h3>
+- [ ] 【2505】【Think Silently, Think Fast】[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552)【latent token 压缩思维链长度】
+
+<h3 id="cUuzs">视觉压缩</h3>
+- [ ] 【2406】【DeepStack】[DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs](https://arxiv.org/abs/2406.04334)【[Abstract](https://zhuanlan.zhihu.com/p/703595420)/[Abstract2](https://zhuanlan.zhihu.com/p/1955376519665943774)】
+
+<h2 id="fZsdP"><font style="color:rgb(31, 35, 40);">Textual/Multimodal Reward Model （奖励模型）</font><font style="color:rgb(31, 35, 40);"></font></h2>
+- [ ] 【2509】【BaseReward】[BaseReward: A Strong Baseline for Multimodal Reward Model](https://arxiv.org/abs/2509.16127)【大量的 trick】
+- [ ] 【2509】【RewardDance】[RewardDance: Reward Scaling in Visual Generation](https://arxiv.org/abs/2509.08826)【[Abstract](https://mp.weixin.qq.com/s/gtFsZ5uPlz1AMlMQIuAJIw)】
+- [x] 【2508】【StructVRM】[StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models](https://arxiv.org/abs/2508.05383)【部分正确性过程 RLVR 奖励】
+- [ ] 【2507】【checklist】[Checklists Are Better Than Reward Models For Aligning Language Models](https://arxiv.org/abs/2507.18624)【清单比奖励模型更适合对齐语言模型】
+- [ ] 【2507】【GLM-4.1V-Thinking VLM Reward System】[GLM-4.1V-Thinking VLM Reward System](https://github.com/zai-org/GLM-4.1V-Thinking/tree/main/glmv_reward)
+- [ ] <font style="color:rgb(31, 35, 40);">【2507】【POLAR】</font>[Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/abs/2507.05197)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/internlm/polar-68693f829d2e83ac5e6e124a)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/InternLM/POLAR)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Skywork-VL Reward】</font>[<font style="color:rgb(9, 105, 218);">Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning</font>](https://arxiv.org/abs/2505.07263)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/Skywork/Skywork-VL-Reward-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/SkyworkAI/Skywork-R1V)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【UnifiedReward-Think】</font>[<font style="color:rgb(9, 105, 218);">Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2505.03318)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://codegoat24.github.io/UnifiedReward/think)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/CodeGoat24/unifiedreward-models-67c3008148c3a380d15ac63a)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/CodeGoat24/unifiedreward-training-data-67c300d4fd5eff00fa7f1ede)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/CodeGoat24/UnifiedReward)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【R1-Reward】</font>[<font style="color:rgb(9, 105, 218);">R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning</font>](https://arxiv.org/abs/2505.02835)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/yifanzhang114/R1-Reward)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yfzhang114/r1_reward)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] 【2505】【WorldPM】[WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Qwen/WorldPM-72B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/QwenLM/WorldPM)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] 【2504】【DeepSeek-GRM】[Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)【[Abstract](https://zhuanlan.zhihu.com/p/1891510512497446981)】
+- [ ] 【2503】【小红书：奖励模型虚假关联】[The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](https://arxiv.org/abs/2503.03122)【[Abstract](https://www.51cto.com/article/819040.html)】
+- [ ] 【2503】【VisualPRM】[VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](https://arxiv.org/abs/2503.10291)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://internvl.github.io/blog/2025-03-13-VisualPRM/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/OpenGVLab/VisualPRM-8B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets-Raw</font>](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K-v1.1-Raw)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets-Conversation</font>](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K-v1.1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OpenGVLab/InternVL)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] 【2502】【MM-RLHF】[MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/abs/2502.10391)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://mm-rlhf.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/yifanzhang114/MM-RLHF-Reward-7B-llava-ov-qwen)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/datasets/yifanzhang114/MM-RLHF)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Kwai-YuanQi/MM-RLHF)<font style="color:rgb(31, 35, 40);">】【</font>[RewardBench](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] 【2501】【InternLM-XComposer2.5-Reward】[InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model](https://arxiv.org/abs/2501.12368)【[Abstract](https://zhuanlan.zhihu.com/p/20799832600)】【[Code](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-Reward)】
+
+<h2 id="CpKq7">Text（纯文本）</h2>
+- [ ] 【2509】[开源RL框架Verlog来了，专为LLM智能体打造，400回合不成问题](https://mp.weixin.qq.com/s/jBxNXqqjSnDzEfP5ONyrhA)
+- [x] 【2507】【Beyond Binary Rewards】[Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](https://arxiv.org/abs/2507.16806)【[Abstract](https://zhuanlan.zhihu.com/p/1933592748683956803?share_code=ovIgKhGvB8Ch&utm_psn=1933953649287103271)】【RLVR 训练经验：正确+诚实，置信度 Reward】
+
+<h2 id="rsiIy"><font style="color:rgb(31, 35, 40);">Image（单图）</font><font style="color:rgb(31, 35, 40);"></font></h2>
+<h3 id="EbfEg">RLVR 训练</h3>
+- [ ] 【2510】【Rex-Omni】[Detect Anything via Next Point Prediction](https://arxiv.org/abs/2510.12798)【[HF](https://huggingface.co/papers/2510.12798)】【目标检测任务 ①使用特殊标记来表示从 0 到 999 的量化坐标 ② 数据 pipeline】
+- [x] 【2508】【Pass@K】[Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models](https://arxiv.org/abs/2508.10751v1)【Pass@K 比 Pass@1 更加鲁棒】
+- [x] 【2508】【FineVision：多模态数据集】【[Abstract](https://www.xiaohongshu.com/explore/68b9aa8c000000001d014e9e?app_platform=android&ignoreEngage=true&app_version=8.99.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBOAkj38H78YSFfojUmpFqHgTphv4zJMkza6elVo_4Nys=&author_share=1&xhsshare=CopyLink&shareRedId=N0k0Q0c8SU82NzUyOTgwNjY5OTpGPT09&apptime=1756998489&share_id=20e48f7dc9c44a0cb77967749bf6ba12&share_channel=copy_link)】
+- [x] 【2508】【Vision G1】[Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation](https://arxiv.org/abs/2508.12680)【大规模全面的 RLVR 数据集】
+- [x] 【2507】【Beyond Binary Rewards】[Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](https://arxiv.org/abs/2507.16806)【正确+诚实，置信度 Reward】【[Abstract](https://zhuanlan.zhihu.com/p/1933592748683956803?share_code=ovIgKhGvB8Ch&utm_psn=1933953649287103271)】
+- [ ] 【2507】【POLARIS】**<font style="color:#DF2A3F;">seed 强化学习训练经验-论文 coming</font>**【[Abstract](https://zhuanlan.zhihu.com/p/1930601703209665224?share_code=19C2YqVjfQrWP&utm_psn=1930942419270112996)】【[Blog](https://honorable-payment-890.notion.site/POLARIS-A-POst-training-recipe-for-scaling-reinforcement-Learning-on-Advanced-ReasonIng-modelS-1dfa954ff7c38094923ec7772bf447a1)】【[Code](https://github.com/ChenxinAn-fdu/POLARIS)】【[Datasets](https://huggingface.co/datasets/POLARIS-Project/Polaris-Dataset-53K)】【[Models](https://huggingface.co/POLARIS-Project/Polaris-4B-Preview)】
+- [ ] 【2507】【Open vision reasoner】[Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning](https://arxiv.org/abs/2507.05255)【[Blog](https://weiyana.github.io/Open-Vision-Reasoner/)】【[Code](https://github.com/Open-Reasoner-Zero/Open-Vision-Reasoner?tab=readme-ov-file)】【[Models](https://huggingface.co/Kangheng/OVR-7B-RL)】【MathVision 指标 35，开源时的最高】
+- [x] 【2506】【No Free Lunch】[No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](https://arxiv.org/abs/2506.17219)【内部熵奖励】
+- [x] 【2506】【OCR 遮挡】[Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2506.20168v1)【[Abstract](https://mp.weixin.qq.com/s/d-ac0s9QSlWzAD2TSoiJkA)】【增强 OCR 识别遮挡能力，减少幻觉】
+- [ ] 【2506】【WeThink】[WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning](https://arxiv.org/abs/2506.07905)【[Abstract](https://mp.weixin.qq.com/s/cDjTSTJWgCG1cOEJ39lbuw)】【[Datasets](https://huggingface.co/datasets/yangjie-cv/WeThink_Multimodal_Reasoning_120K)】【[Code](https://github.com/yangjie-cv/WeThink)】【RLVR 训练经验】
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【Revisual-R1】</font>[<font style="color:rgb(9, 105, 218);">Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning</font>](https://arxiv.org/abs/2506.04207)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/csfufu/revisual-r1-6841b748f08ee6780720c00e)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/CSfufu/Revisual-R1)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/collections/csfufu/revisual-r1-6841b748f08ee6780720c00e)<font style="color:rgb(31, 35, 40);">】【先多模态后文本，推理能力迁移】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【SynthRL】</font>[<font style="color:rgb(9, 105, 218);">SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis</font>](https://arxiv.org/abs/2506.02096)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Jakumetsu/SynthRL-A-MMK12-8K-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/Jakumetsu/synthrl-6839d265136fa9ca717105c5)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/NUS-TRAIL/SynthRL)<font style="color:rgb(31, 35, 40);">】【Query 数据增强为更难的变体】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【MoDoMoDo】</font>[<font style="color:rgb(9, 105, 218);">MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning</font>](https://arxiv.org/abs/2505.24871)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://modomodo-rl.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/yiqingliang)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/lynl7130/MoDoMoDo)<font style="color:rgb(31, 35, 40);">】【大规模数据配比策略】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VisualSphinx】</font>[<font style="color:rgb(9, 105, 218);">VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL</font>](https://arxiv.org/abs/2505.23977)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://visualsphinx.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/VisualSphinx/VisualSphinx-Difficulty-Tagging)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/VisualSphinx/visualsphinx-v1-6837658bb93aa1e23aef1c3f)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/VisualSphinx/VisualSphinx)<font style="color:rgb(31, 35, 40);">】【大规模数据合成；公务员行测题数据】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【MM-UPT】</font>[<font style="color:rgb(9, 105, 218);">Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO</font>](https://arxiv.org/abs/2505.22453)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/WaltonFuture/Qwen2.5-VL-7B-MM-UPT-MMR1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/WaltonFuture/MMR1-direct-synthesizing)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/waltonfuture/MM-UPT)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Orsta】</font>[<font style="color:rgb(9, 105, 218);">One RL to See Them All: Visual Triple Unified Reinforcement Learning</font>](https://arxiv.org/abs/2505.18129)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/One-RL-to-See-Them-All/one-rl-to-see-them-all-6833d27abce23898b2f9815a)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/datasets/One-RL-to-See-Them-All/Orsta-Data-47k)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：iou 奖励设计】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【X-Reasoner】</font>[<font style="color:rgb(9, 105, 218);">X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains</font>](https://arxiv.org/abs/2505.03981)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/microsoft/x-reasoner)<font style="color:rgb(31, 35, 40);">】【文本推理能力泛化到多模态】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【VL-Rethinker : ViRL39K】</font>[<font style="color:rgb(9, 105, 218);">VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning</font>](https://arxiv.org/abs/2504.08837)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://tiger-ai-lab.github.io/VL-Rethinker/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/TIGER-Lab/vl-rethinker-67fdc54de07c90e9c6c69d09)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/TIGER-Lab/ViRL39K)<font style="color:rgb(31, 35, 40);"> </font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/TIGER-AI-Lab/VL-Rethinker)<font style="color:rgb(31, 35, 40);">】【①SSR 样本重放解决优势消失】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Perception-R1】</font>[<font style="color:rgb(9, 105, 218);">Perception-R1: Pioneering Perception Policy with Reinforcement Learning</font>](https://arxiv.org/abs/2504.07954)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/collections/Kangheng/perception-r1-67f6b14f89d307a0ece985af)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/Kangheng/perception-r1-67f6b14f89d307a0ece985af)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/linkangheng/PR1)<font style="color:rgb(31, 35, 40);">】【① 显式 CoT 不是对所有任务都有效，靠直觉的任务思考多余；② 合适的奖励设计带来健康的学习曲线 ③ 困惑度是 RL 对 SFT 的优势】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【SOTA with Less : ThinkLite-VL】</font>[<font style="color:rgb(9, 105, 218);">SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement</font>](https://arxiv.org/abs/2504.07934)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/russwang/ThinkLite-VL-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/russwang/thinklite-vl-67f88c6493f8a7601e73fe5a)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/si0wang/ThinkLite-VL)<font style="color:rgb(31, 35, 40);">】【课程学习： ① 蒙特卡洛树搜索衡量难度；② 构建有挑战性的样本】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【VLM-R1】</font>[<font style="color:rgb(9, 105, 218);">VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model</font>](https://arxiv.org/abs/2504.07615)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/omlab/Qwen2.5VL-3B-VLM-R1-REC-500steps)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/omlab/VLM-R1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/om-ai-lab/VLM-R1)<font style="color:rgb(31, 35, 40);">】【强化视觉任务】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【CrowdVLM-R1】</font>[<font style="color:rgb(9, 105, 218);">CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward</font>](https://arxiv.org/abs/2504.03724)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/yeyimilk/CrowdVLM-R1-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yeyimilk/CrowdVLM-R1)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：FGRPR 精细的 Reward 设计】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Reason-RFT】</font>[<font style="color:rgb(9, 105, 218);">Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning</font>](https://arxiv.org/abs/2503.20752)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://tanhuajie.github.io/ReasonRFT)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/tanhuajie/Reason-RFT)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：训练范式】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【OpenVLThinker】</font>[<font style="color:rgb(9, 105, 218);">OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement</font>](https://arxiv.org/abs/2503.17352)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/collections/ydeng9/openvlthinker-v12-models-686f4632c23b59379c475169)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yihedeng9/OpenVLThinker)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/collections/ydeng9/openvlthinker-v12-datasets-686f45e48d02e00b1585299e)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：早期数据合成】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【OThink-MR1】</font>[<font style="color:rgb(9, 105, 218);">OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning</font>](https://arxiv.org/abs/2503.16081)【RLVR 训练经验：没有开源】
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【R1-Onevision】</font>[<font style="color:rgb(9, 105, 218);">R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization</font>](https://arxiv.org/abs/2503.10615)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/Fancy-MLLM/R1-Onevision)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Fancy-MLLM/R1-Onevision)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：图像形式化文本表示】</font>
+- [x] <font style="color:rgb(31, 35, 40);">【2503】【LMM-R1：VerMulti】</font>[<font style="color:rgb(9, 105, 218);">LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL</font>](https://arxiv.org/abs/2503.07536)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/TideDra/lmm-r1)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/datasets/VLM-Reasoner/VerMulti)<font style="color:rgb(31, 35, 40);">】【</font>[Blog](https://forjadeforest.github.io/LMM-R1-ProjectPage/)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：两阶段 ① 基础推理增强 ② 多模态泛化训练】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Curr-ReFT】</font>[<font style="color:rgb(9, 105, 218);">Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning</font>](https://arxiv.org/abs/2503.07065)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/ZTE-AIM)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/ding523/Curr_REFT)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：课程强化微调（Curr-ReFT）解决 OOD】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【VisualThinker-R1-Zero】</font>[<font style="color:rgb(9, 105, 218);">R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model</font>](https://arxiv.org/abs/2503.05132)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)<font style="color:rgb(31, 35, 40);">】【RLVR 训练经验：早期复现经验】</font>
+- [x] <font style="color:rgb(31, 35, 40);">【2503】【Vision-R1】</font>[<font style="color:rgb(9, 105, 218);">Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models</font>](https://arxiv.org/abs/2503.06749)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Osilly/Vision-R1)<font style="color:rgb(31, 35, 40);">】【</font>[Blog](https://forjadeforest.github.io/LMM-R1-ProjectPage/)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets-Cold-Start](https://huggingface.co/datasets/Osilly/Vision-R1-cold)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets-RLVR](https://huggingface.co/datasets/Osilly/Vision-R1-rl)<font style="color:rgb(31, 35, 40);">】【① 构造冷启动数据 ②渐进式思维抑制训练（PTST）策略】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Visual-RFT】</font>[<font style="color:rgb(9, 105, 218);">Visual-RFT: Visual Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2503.01785)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://github.com/Liuziyu77/Visual-RFT)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Liuziyu77/Visual-RFT)<font style="color:rgb(31, 35, 40);">】【IOU 等奖励设计】</font>
+- [x] <font style="color:rgb(31, 35, 40);">【2503】【MM-Eureka：MMK12】</font>[MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://github.com/ModalMinds/MM-EUREKA/blob/main/MM_Eureka_paper.pdf)<font style="color:rgb(31, 35, 40);"> 【</font>[Models](https://huggingface.co/FanqingM)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets-MMK12](https://huggingface.co/datasets/FanqingM/MMK12)<font style="color:rgb(31, 35, 40);">】【</font>[Dataset-MM-Eureka](https://huggingface.co/datasets/FanqingM/MM-Eureka-Dataset)<font style="color:rgb(31, 35, 40);">】【</font>[Code](https://github.com/ModalMinds/MM-EUREKA)<font style="color:rgb(31, 35, 40);">】【高质量多模态数学推理数据集】</font>
+- [ ] 【2502】【R1-V 项目训练经验 Blog】[RLVR in Vision Language Models: Findings, Questions and Directions](https://deepagent.notion.site/rlvr-in-vlms)
+- [ ] 【2502】【Task Galaxy】[TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types](https://arxiv.org/abs/2502.09925)【[Code](https://github.com/Kwai-YuanQi/TaskGalaxy)】【[文档](https://linote.lixiang.com/docs/doceB5E8BE20e3e1993EA207d9a)】【数据集标注 pipeline】
+- [ ] <font style="color:rgb(31, 35, 40);">【2501】【Virgo】</font>[<font style="color:rgb(9, 105, 218);">Virgo: A Preliminary Exploration on Reproducing o1-like MLLM</font>](https://arxiv.org/abs/2501.01904v2)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/RUC-AIBOX/Virgo-72B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/RUCAIBox/Virgo)<font style="color:rgb(31, 35, 40);">】【文本推理能力可以跨模态迁移】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2412】【Datasets】【Mulberry】</font>[<font style="color:rgb(9, 105, 218);">Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search</font>](https://arxiv.org/abs/2412.18319)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/HuanjinYao/Mulberry_llava_8b)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/HJYao00/Mulberry)<font style="color:rgb(31, 35, 40);">】【集成学习多个模型协蒙特卡洛搜索树构建Mulberry-260k】</font>
+
+<h3 id="mn8SY">AutoThink</h3>
+- [ ] 【2509】【MARS2】[Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond](https://github.com/mars2workshop/)
+- [ ] 【2508】【R4B】[R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning](https://arxiv.org/abs/2508.21113)
+- [x] 【2508】【deep think with confidence】[Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
+- [ ] 【2506】【LC-R1】[Optimizing Length Compression in Large Reasoning Models](https://arxiv.org/pdf/2506.14755)【[Abstract](https://mp.weixin.qq.com/s/HjzmmQyOZE9UaFWTS97XgA)】【[Code](https://github.com/zxiangx/LC-R1)】【精准减少 think 长度】
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【SRPO】</font>[<font style="color:rgb(9, 105, 218);">SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning</font>](https://arxiv.org/abs/2506.01713)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://srpo.pages.dev/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/SUSTechBruce/SRPO_MLLMs)<font style="color:rgb(31, 35, 40);">】【奖励反思 think】</font>
+- [ ] 【2505】【Qwen3 的 AutoThink】[Qwen3-RL训练过程详解](https://mp.weixin.qq.com/s/XFNa7dp1NcZRiVDOouzJgw)
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【PixelThink】</font>[<font style="color:rgb(9, 105, 218);">PixelThink: Towards Efficient Chain-of-Pixel Reasoning</font>](https://arxiv.org/abs/2505.23727)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://pixelthink.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/songw-zju/PixelThink)<font style="color:rgb(31, 35, 40);">】【AutoThink：压缩 token】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【MLRM-Halu】</font>[<font style="color:rgb(9, 105, 218);">More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models</font>](https://arxiv.org/abs/2505.21523)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://mlrm-halu.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Benchmark</font>](https://huggingface.co/datasets/LCZZZZ/RH-Bench)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/MLRM-Halu/MLRM-Halu)<font style="color:rgb(31, 35, 40);">】【解决长推理容易产生幻觉的问题】</font>
+- [ ] 【2505】【Learning When to Think】[Learning When to Think: Shaping Adaptive Reasoning in R1-Style Models via Multi-Stage RL](https://arxiv.org/abs/2505.10832)【[Abstract](https://mp.weixin.qq.com/s/qcGrNjIqU1cLSg_31wijJg)】【[Code](https://github.com/ScienceOne-AI/AutoThink)】【[Datasets](https://huggingface.co/collections/SONGJUNTU/autothink-682624e1466651b08055b479)】【自适应切换长短思考】
+- [ ] 【2505】【Thinkless】[Thinkless: LLM Learns When to Think](https://arxiv.org/abs/2505.13379)【[Code](https://github.com/VainF/Thinkless)】【[Models](https://huggingface.co/collections/Vinnnf/thinkless-682ba006919ee8f8a73a26b1)】【[Datasets-Warmup](https://huggingface.co/datasets/Vinnnf/Hybrid-OpenThoughts2-1M-1.5B)】【[Datasets-RL](https://huggingface.co/datasets/agentica-org/DeepScaleR-Preview-Dataset)】【AutoThink，自适应思考】
+- [ ] 【2505】【小模型推理效率】[Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement](https://arxiv.org/abs/2505.07961)【AutoThink】
+- [ ] 【2505】【ToN : Think Efficiency Information-Theoretic】[Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens](https://arxiv.org/abs/2505.18237)【AutoThink】
+- [x] <font style="color:rgb(31, 35, 40);">【2505】【ToN math sft】</font>[<font style="color:rgb(9, 105, 218);">Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models</font>](https://arxiv.org/abs/2505.16854)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/kolerk/ton-682ad9038395c21e228a645b)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/kokolerk/TON)<font style="color:rgb(31, 35, 40);">】【AutoThink】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【FAST】</font>[<font style="color:rgb(9, 105, 218);">Fast-Slow Thinking for Large Vision-Language Model Reasoning</font>](https://arxiv.org/abs/2504.18458)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Mr-Loevan/FAST)<font style="color:rgb(31, 35, 40);">】【AutoThink】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【VLAA-Thinking】</font>[SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://arxiv.org/abs/2504.11468)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/UCSC-VLAA/vlaa-thinker-67eda033419273423d77249e)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/UCSC-VLAA/VLAA-Thinking)<font style="color:rgb(31, 35, 40);">】【</font>[Blog](https://ucsc-vlaa.github.io/VLAA-Thinking/)<font style="color:rgb(31, 35, 40);">】【AutoThink：伪推理，有效思考】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Think or Not Think】</font>[<font style="color:rgb(9, 105, 218);">Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2503.16188)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/afdsafas)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/afdsafas)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/minglllli/CLS-RL)<font style="color:rgb(31, 35, 40);">】【AutoThink：视觉感知任务不需要 CoT】</font>
+
+<h3 id="h4F8G">GRPO 改进</h3>
+- [ ] 【2510】【综述】[PPO,GRPO,DPO,ARPO算法及其 40+变种｜HF Papers 论文盘点](https://mp.weixin.qq.com/s/RDVnjsnehhrvYgSkrHUH5Q)
+- [ ] 【2510】【ASPO】[ASPO: Asymmetric Importance Sampling Policy Optimization](https://arxiv.org/abs/2510.06062)【[Abstract](https://mp.weixin.qq.com/s/TRDO2H9Q24YDSvK2cSdD2g)】
+- [ ] 【2508】【GFPO 微软】[Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726)
+- [ ] 【2508】【GSPO】[Group Sequence Policy Optimization](https://www.arxiv.org/abs/2507.18071)【[Abstract](https://mp.weixin.qq.com/s/il11ZcSJI4uZeVKqncpsQQ)】
+- [ ] 【2507】【GMPO】[Geometric-Mean Policy Optimization](https://arxiv.org/abs/2507.20673)【[Abstract](https://zhuanlan.zhihu.com/p/1934575387687490603)】
+- [ ] 【2507】【GHPO】[GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning](https://arxiv.org/abs/2507.10628)【奖励稀疏，学习停滞，课程学习，math 提升】
+- [ ] 【2507】【QPRO】[Quantile Reward Policy Optimization: Alignment with Pointwise Regression and Exact Partition Functions](https://arxiv.org/abs/2507.08068)【[Abstract](https://mp.weixin.qq.com/s?__biz=Mzg3MjEyMzM4MA==&mid=2247484403&idx=1&sn=25a9fd51d2ab33e2eee5a1faacdb3251&chksm=cef55d68f982d47e6f17c7d7256211d57bc3a5c3d71624e7d79ac602a5e9765aae35f2186103&cur_album_id=3913047515507163147&scene=189#wechat_redirect)】【相对百分比奖励】
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【SRPO】</font>[<font style="color:rgb(9, 105, 218);">SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning</font>](https://arxiv.org/abs/2506.01713)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://srpo.pages.dev/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/SRPOMLLMs/srpo-sft-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/SUSTechBruce/SRPO_MLLMs)<font style="color:rgb(31, 35, 40);">】【奖励反思 think】</font>
+- [x] 【2505】【GiGPO】[Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978)
+- [x] 【2505】【A*-PO】[Accelerating RL for LLM Reasoning with Optimal Advantage Regression](https://arxiv.org/abs/2505.20686)
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【NFT 负意识微调】</font>[Bridging Supervised Learning and Reinforcement Learning in Math Reasoning](https://arxiv.org/abs/2505.18116)<font style="color:rgb(31, 35, 40);">【实现了 NFT 负监督微调等价于 GRPO】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【R1-ShareVL】</font>[<font style="color:rgb(9, 105, 218);">R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO</font>](https://arxiv.org/abs/2505.16673)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/HJYao00/R1-ShareVL)<font style="color:rgb(31, 35, 40);">】【</font>[Models](https://huggingface.co/HuanjinYao/R1-ShareVL-7B)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/datasets/HuanjinYao/R1-ShareVL-52K)<font style="color:rgb(31, 35, 40);">】【ShareGRPO</font><font style="color:rgb(0, 0, 0);">缓解RL中稀疏奖励和优势消失问题，扩展问题空间，共享问题轨迹</font><font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【TrustGRPO / SophiaVL-R1】</font>[<font style="color:rgb(9, 105, 218);">SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward</font>](https://arxiv.org/abs/2505.17018)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/bunny127)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/bunny127)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/kxfan2002/SophiaVL-R1)<font style="color:rgb(31, 35, 40);">】【强化学习过程奖励】</font>
+- [ ] 【2505】【DPO vs GRPO】[Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017)
+- [ ] 【2504】【VAPO】[VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118)
+- [ ] 【2503】【DrGRPO】[Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/abs/2503.20783)【[Abstract](https://yam.gift/2025/03/28/NLP/LLM-Training/2025-03-28-LLM-PostTrain-DrGRPO/)】
+- [ ] 【2503】【DAPO】[DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)【[Blog](https://dapo-sia.github.io/)】【[Code](https://github.com/BytedTsinghua-SIA/DAPO)】【[Datasets](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k)】【[Model](https://huggingface.co/BytedTsinghua-SIA/DAPO-Qwen-32B)】
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【stepGRPO / R1-VL】</font>[<font style="color:rgb(9, 105, 218);">R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization</font>](https://arxiv.org/abs/2503.12937)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/jingyiZ00)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/jingyi0000/R1-VL)<font style="color:rgb(31, 35, 40);">】【步骤 Reward】</font>
+- [x] 【2502】【SPO】[Self-Supervised Prompt Optimization](https://arxiv.org/abs/2502.06855)
+
+<h3 id="j6nLU">未归类</h3>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【ViCrit】</font>[<font style="color:rgb(9, 105, 218);">ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs</font>](https://arxiv.org/abs/2506.10128)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/russwang/vicrit-68489e13f223c00a6b6d5732)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/si0wang/ViCrit)<font style="color:rgb(31, 35, 40);">】【解决幻觉】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【Vision Matters】</font>[<font style="color:rgb(9, 105, 218);">Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning</font>](https://arxiv.org/abs/2506.09736)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Yuting6/Vision-Matters-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/Yuting6/vision-matters-684801dd1879d3e639a930d1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/YutingLi0606/Vision-Matters)<font style="color:rgb(31, 35, 40);">】【视觉扰动增强视觉模态】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【ViGaL】</font>[<font style="color:rgb(9, 105, 218);">Play to Generalize: Learning to Reason Through Game Play</font>](https://arxiv.org/abs/2506.08011)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://yunfeixie233.github.io/ViGaL/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/yunfeixie/ViGaL-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yunfeixie233/ViGaL)<font style="color:rgb(31, 35, 40);">】【游戏训练迁移到推理能力】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【RAP】</font>[<font style="color:rgb(9, 105, 218);">Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning</font>](https://arxiv.org/abs/2506.04755)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Leo-ssl/RAP)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【RACRO】</font>[<font style="color:rgb(9, 105, 218);">Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning</font>](https://arxiv.org/abs/2506.04559)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/KaiChen1998/racro-6848ec8c65b3a0bf33d0fbdb)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/Emova-ollm/RACRO-demo)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/gyhdog99/RACRO2/)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【Rex-Thinker】</font>[<font style="color:rgb(9, 105, 218);">Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning</font>](https://arxiv.org/abs/2506.04034)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://rexthinker.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/IDEA-Research/Rex-Thinker-GRPO-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/IDEA-Research/HumanRef-CoT-45k)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/Mountchicken/Rex-Thinker-Demo)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/IDEA-Research/Rex-Thinker)<font style="color:rgb(31, 35, 40);">】【grounding 推理可解释性】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【DINO-R1】</font>[<font style="color:rgb(9, 105, 218);">DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models</font>](https://arxiv.org/abs/2505.24025)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://christinepan881.github.io/DINO-R1/)<font style="color:rgb(31, 35, 40);">】【</font>[Code](https://github.com/Christinepan881/DINO-R1)<font style="color:rgb(31, 35, 40);">】【对 DINO 这种传统视觉模型做上下文强化学习】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【ViGoRL】</font>[<font style="color:rgb(9, 105, 218);">Grounded Reinforcement Learning for Visual Reasoning</font>](https://arxiv.org/abs/2505.23678)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://visually-grounded-rl.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Gabesarch/grounded-rl)<font style="color:rgb(31, 35, 40);">】【grounding 推理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Jigsaw-R1】</font>[<font style="color:rgb(9, 105, 218);">Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles</font>](https://arxiv.org/abs/2505.23590)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/jigsaw-r1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/zifuwanggg/Jigsaw-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VRAG-RL】</font>[<font style="color:rgb(9, 105, 218);">VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning</font>](https://arxiv.org/abs/2505.22019)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Alibaba-NLP/VRAG)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【SATORI-R1】</font>[<font style="color:rgb(9, 105, 218);">SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards</font>](https://arxiv.org/abs/2505.19094)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/justairr/SATORI)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/justairr/VQA-Verify)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/justairr/SATORI-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [x] <font style="color:rgb(31, 35, 40);">【2505】【URSA】</font>[<font style="color:rgb(9, 105, 218);">URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics</font>](https://arxiv.org/abs/2501.04686)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/URSA-MATH/URSA-8B-PS-GRPO)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/URSA-MATH)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/URSA-MATH)<font style="color:rgb(31, 35, 40);">】【指标真实性存疑？高质量 math 数据集合成】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【GRE Suite】</font>[<font style="color:rgb(9, 105, 218);">GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains</font>](https://arxiv.org/abs/2505.18700)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Thorin215/GRE)<font style="color:rgb(31, 35, 40);">】【地理定位推理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【STAR-R1】</font>[<font style="color:rgb(9, 105, 218);">STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs</font>](https://arxiv.org/abs/2505.15804)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/zongzhao23/STAR-R1)<font style="color:rgb(31, 35, 40);">】【空间推理能力】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VARD (generation)】</font>[<font style="color:rgb(9, 105, 218);">VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL</font>](https://arxiv.org/abs/2505.15791)
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Visionary-R1】</font>[<font style="color:rgb(9, 105, 218);">Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning</font>](https://arxiv.org/abs/2505.14677)<font style="color:rgb(31, 35, 40);"> 【</font>[Blog](https://www.maifoundations.com/blog/visionary-r1/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/maifoundations/Visionary-R1)<font style="color:rgb(31, 35, 40);">】【模态平衡：推理前先解释图像】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VisualQuality-R1】</font>[<font style="color:rgb(9, 105, 218);">VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank</font>](https://arxiv.org/abs/2505.14460)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/TianheWu/VisualQuality-R1-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/TianheWu/VisualQuality-R1)<font style="color:rgb(31, 35, 40);">】【强化图像质量评估任务】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【UniVG-R1】</font>[<font style="color:rgb(9, 105, 218);">UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning</font>](https://arxiv.org/abs/2505.14231)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://amap-ml.github.io/UniVG-R1-page/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/GD-ML/UniVG-R1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/GD-ML/UniVG-R1-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/AMAP-ML/UniVG-R1)<font style="color:rgb(31, 35, 40);">】【grounding 推理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【G1】</font>[<font style="color:rgb(9, 105, 218);">G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning</font>](https://arxiv.org/abs/2505.13426)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/chenllliang/G1)<font style="color:rgb(31, 35, 40);">】【VLM-Gym 环境，强化视觉游戏】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VisionReasoner】</font>[<font style="color:rgb(9, 105, 218);">VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning</font>](https://arxiv.org/abs/2505.12081)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Ricky06662/VisionReasoner-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/Ricky06662/VisionReasoner_multi_object_1k_840)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/dvlab-research/VisionReasoner)<font style="color:rgb(31, 35, 40);">】【框架把多种视觉推理任务结构化规范化处理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【GuardReasoner-VL】</font>[<font style="color:rgb(9, 105, 218);">GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning</font>](https://arxiv.org/abs/2505.11049)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yueliu1999/GuardReasoner-VL)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets-JSON](https://huggingface.co/datasets/yueliu1999/GuardReasoner-VLTrain)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets-Images](https://huggingface.co/datasets/yueliu1999/GuardReasoner-VLTrain-Image)<font style="color:rgb(31, 35, 40);">】【</font>[Models](https://huggingface.co/collections/yueliu1999/guardreasoner-vl-682aef1b483ed07ae6273b31)<font style="color:rgb(31, 35, 40);">】【安全审核推理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Relation-R1】</font>[<font style="color:rgb(9, 105, 218);">Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension</font>](https://arxiv.org/abs/2504.14642)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/HKUST-LongGroup/Relation-R1)<font style="color:rgb(31, 35, 40);">】【多实体之间视觉语义结构化】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【R1-SGG】</font>[<font style="color:rgb(9, 105, 218);">Compile Scene Graphs with Reinforcement Learning</font>](https://www.arxiv.org/abs/2504.13617)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/gpt4vision/R1-SGG)<font style="color:rgb(31, 35, 40);">】【视觉表征结构化提取】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【NoisyRollout】</font>[<font style="color:rgb(9, 105, 218);">Reinforcing Visual Reasoning with Data Augmentation</font>](https://arxiv.org/abs/2504.13055)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/xyliu6/noisyrollout-67ff992d1cf251087fe021a2)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/John-AI-Lab/NoisyRollout)<font style="color:rgb(31, 35, 40);">】【视觉干扰，数据增强】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Qwen-AD】</font>[<font style="color:rgb(9, 105, 218);">Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning</font>](https://arxiv.org/abs/2404.12966)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/LeeeeTX/Qwen-AD)<font style="color:rgb(31, 35, 40);">】【假设推理，主动推理】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【SimpleAR (generation)】</font>[<font style="color:rgb(9, 105, 218);">SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL</font>](https://arxiv.org/abs/2504.11455)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/wdrink/SimpleAR)<font style="color:rgb(31, 35, 40);">】【自回归生成架构】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【MAYE】</font>[<font style="color:rgb(9, 105, 218);">Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme</font>](https://www.arxiv.org/abs/2504.02587)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/ManTle/MAYE)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/GAIR-NLP/MAYE)<font style="color:rgb(31, 35, 40);">】【简化的 RL 训练框架和评估，过程动态可解释】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Q-Insight】</font>[<font style="color:rgb(9, 105, 218);">Q-Insight: Understanding Image Quality via Visual Reinforcement Learning</font>](https://arxiv.org/abs/2503.22679)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/bytedance/Q-Insight)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/ByteDance/Q-Insight)<font style="color:rgb(31, 35, 40);">】【图像质量评估】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Seg-Zero】</font>[<font style="color:rgb(9, 105, 218);">Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement</font>](https://arxiv.org/abs/2503.06520)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Ricky06662/Seg-Zero-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/dvlab-research/Seg-Zero)<font style="color:rgb(31, 35, 40);">】【RL 训练思维链增强图像分割效果】</font>
+- [ ] 【2502】【WebLI-100B】[Scaling Pre-training to One Hundred Billion Data for Vision Language Models](https://arxiv.org/abs/2502.07617)【[Abstract](https://ai-bot.cn/webli-100b/)】【100B 的数据集】
+- [x] 【2501】【MCQAutoConverter】[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](https://arxiv.org/abs/2501.03225)<font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/OpenGVLab/InternVL2-8B-MPO)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)<font style="color:rgb(31, 35, 40);">】【open ended 转化为 mcq】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2501】【Text-to-image COT】</font>[<font style="color:rgb(9, 105, 218);">Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step</font>](https://arxiv.org/abs/2501.13926)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://yuhui-zh15.github.io/AutoConverter-Website/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/datasets/suyc21/VMCBench)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yuhui-zh15/AutoConverter)<font style="color:rgb(31, 35, 40);">】【图像生成：验证 CoT】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2411】【Insight-V】</font>[<font style="color:rgb(9, 105, 218);">Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models</font>](https://arxiv.org/abs/2411.14432)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/dongyh20/Insight-V)<font style="color:rgb(31, 35, 40);">】【古早的 CoT 思路】</font>
+
+<h2 id="eR3fQ">模态融合 & 表征</h2>
+<h3 id="wpRB1">图文交错思维链</h3>
+- [ ] 【2510】【MathCanvas】[MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning](https://arxiv.org/abs/2510.14958)【① 大语言模型执行内在的 VCoT 推理解决数学问题 ② 构建了两个大规模语料库，用于两阶段训练】
+- [ ] 【2507】【Zebra-CoT】[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746)【图像思考：过程有效的视觉文本交替的数据集】
+
+<h3 id="ndoSC">视觉表征</h3>
+- [ ] 【2307】【Meta-Transformer】[Meta-Transformer: A Unified Framework for Multimodal Learning](https://www.arxiv.org/abs/2307.10802)
+- [ ] 【2307】【UnIVAL】[UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://www.arxiv.org/abs/2307.16184)
+
+<h3 id="YfZYT">原生多模态融合</h3>
+- [ ] 【2510】【From Pixels to Words】[From Pixels to Words -- Towards Native Vision-Language Primitives at Scale](https://arxiv.org/abs/2510.14979)
+- [ ] 【2510】【SAIL-embedding】[SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model](https://arxiv.org/abs/2510.12709)
+- [ ] 【2504】【SAIL】[The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer](https://arxiv.org/abs/2504.10462)【[Abstract](https://zhuanlan.zhihu.com/p/1897347865459815568)】
+
+<h3 id="xkUld"><font style="background-color:#FBF5CB;">Latent Reasoning</font></h3>
+> [【论文归纳整理】Latent Space Reasoning](https://zhuanlan.zhihu.com/p/1930581176516605781)
+>
+> [latent reasoning用来推理是误入歧途了](https://zhuanlan.zhihu.com/p/1931402161696273006)
+>
+> [Awesome-Latent-Reasoning](https://github.com/Xnhyacinth/Awesome-Latent-Reasoning)
+>
+> [Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+>
+> [stable-latent-reasoning](https://github.com/kreasof-ai/stable-latent-reasoning)
+>
+
+- [ ] 【2510】【Patch-as-Decodable-Token】【颜水成】[Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs](https://arxiv.org/abs/2510.01954)【[Abstract](https://mp.weixin.qq.com/s/yErVqACty0Qd08OBgbGThw)】
+- [ ] 【2510】【SwiReasoning】[SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs](https://arxiv.org/abs/2510.05069)
+- [ ] 【2509】【Latent Visual Reasoning】[Latent Visual Reasoning](https://arxiv.org/abs/2509.24251v1)【视觉 logits 参与输出和思维】
+- [ ] 【2507】【综述】[A Survey on Latent Reasoning](https://arxiv.org/abs/2507.06203)【[Abstract](https://mp.weixin.qq.com/s/kyApCfqeutAxvZoq43dwDA)】【[Code](https://github.com/multimodal-art-projection/LatentCoT-Horizon)】
+- [ ] 【2507】【综述】[Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](http://arxiv.org/abs/2505.16782)【[Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)】
+- [ ] 【2506】【No Free Lunch】[No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](https://arxiv.org/abs/2506.17219)【内部熵奖励】
+- [ ] 【2505】【Think Silently, Think Fast】[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552)【latent token 压缩思维链长度】
+- [ ] 【2505】【Soft Thinking】[Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](https://arxiv.org/abs/2505.15778)【[Code](https://github.com/eric-ai-lab/Soft-Thinking)】
+- [ ] 【2505】【HRPO】[Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454)
+- [ ] 【2505】[From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)【Yann LeCun】
+- [ ] 【2505】[Reinforced Latent Reasoning for LLM-based Recommendation](https://arxiv.org/abs/2505.19092)
+- [ ] 【2504】[Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2504.10615)
+- [ ] 【2503】[Reasoning to Learn from Latent Thoughts](https://arxiv.org/abs/2503.18866v1)
+- [ ] 【2503】[Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation](https://arxiv.org/abs/2503.22675)
+- [ ] 【2502】[Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)【[Abstract](https://zhuanlan.zhihu.com/p/23881778685)/[Abstract2](https://zhuanlan.zhihu.com/p/23404988634)】【模仿脑内循环】
+- [ ] 【2502】[Reasoning with Latent Thoughts: On the Power of Looped Transformers](https://arxiv.org/abs/2502.17416)
+- [ ] 【2502】[Self-Enhanced Reasoning Training: Activating Latent Reasoning in Small Models for Enhanced Reasoning Distillation](https://arxiv.org/abs/2502.12744)
+- [ ] 【2412】【CoConut】[Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)【[Abstract](https://blog.csdn.net/YixinZhang2002/article/details/148810966)】
+- [ ] 【2412】【Byte Latent Transformer】【Meta】[Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/abs/2412.09871)【[Abstract](https://zhuanlan.zhihu.com/p/13048630294)】
+- [ ] 【2411】[Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282)
+- [ ] 【2411】[Interleaved-Modal Chain-of-Thought](https://arxiv.org/abs/2411.19488)【[Abstract](https://zhuanlan.zhihu.com/p/30552030291)】
+- [ ] 【2411】[Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?](https://arxiv.org/abs/2411.16679)【[ACL](https://aclanthology.org/2024.acl-long.550/)】
+- [ ] 【2312】[LaRS: Latent Reasoning Skills for Chain-of-Thought Reasoning](https://aclanthology.org/2024.findings-emnlp.206/)
+
+<h3 id="s4a2I">图像思考</h3>
+- [ ] 【2509】【Mini-o3】[Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969)【[Code](https://github.com/Mini-o3/Mini-o3)】
+- [ ] 【2505】【知乎】[视觉推理四篇：DeepEyes、TwGI、PixelReasoner、VisualPlanner](https://zhuanlan.zhihu.com/p/1918581904493487724)
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Active-O3】</font>[<font style="color:rgb(9, 105, 218);">Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO</font>](https://arxiv.org/abs/2505.21457)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://aim-uofa.github.io/ACTIVE-o3/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://www.modelscope.cn/models/zzzmmz/ACTIVE-o3)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/aim-uofa/Active-o3)<font style="color:rgb(31, 35, 40);">】【图像思考：主动视觉感知】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【v1】</font>[<font style="color:rgb(9, 105, 218);">v1: Learning to Point Visual Tokens for Multimodal Grounded Reasoning</font>](https://arxiv.org/abs/2505.18842)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/kjunh/v1-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/jun297/v1)<font style="color:rgb(31, 35, 40);">】【图像思考： gpt-o3 图片多次访问】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VLM-R^3】</font>[<font style="color:rgb(9, 105, 218);">VLM-R^3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought</font>](https://arxiv.org/abs/2505.16192)<font style="color:rgb(9, 105, 218);"> </font>【图像思考】
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Pixel Reasoner】</font>[<font style="color:rgb(9, 105, 218);">Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning</font>](https://arxiv.org/abs/2505.15966)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://tiger-ai-lab.github.io/Pixel-Reasoner/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://huggingface.co/spaces/TIGER-Lab/Pixel-Reasoner)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)<font style="color:rgb(31, 35, 40);">】【图像思考】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【GRIT】</font>[<font style="color:rgb(9, 105, 218);">GRIT: Teaching MLLMs to Think with Images</font>](https://arxiv.org/abs/2505.15879)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://grounded-reasoning.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Demo</font>](https://b86dd615e41b242e22.gradio.live/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/eric-ai-lab/GRIT)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/datasets/yfan1997/GRIT_data)<font style="color:rgb(31, 35, 40);">】【图像思考：模态交互，grounding】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Chain-of-Focus】</font>[<font style="color:rgb(9, 105, 218);">Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL</font>](https://arxiv.org/abs/2505.15436)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://cof-reasoning.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[Datasets](https://huggingface.co/datasets/xintongzhang/CoF-SFT-Data-5.4k)<font style="color:rgb(31, 35, 40);">】【</font>[Models](https://huggingface.co/xintongzhang/CoF-sft-model-7b)<font style="color:rgb(31, 35, 40);">】【</font>[Code](https://github.com/xtong-zhang/Chain-of-Focus)<font style="color:rgb(31, 35, 40);">】【图像思考；自适应缩放】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【DeepEyes】</font>[<font style="color:rgb(9, 105, 218);">Incentivizing "Thinking with Images" via Reinforcement Learning</font>](https://arxiv.org/abs/2505.14362)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://visual-agent.github.io/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/ChenShawn/DeepEyes-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Visual-Agent/DeepEyes)<font style="color:rgb(31, 35, 40);">】【图像思考】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Visual-ARFT】</font>[<font style="color:rgb(9, 105, 218);">Visual Agentic Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2505.14246)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Models</font>](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)<font style="color:rgb(31, 35, 40);">】【图像思考：agent】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VPRL：Visual Planning】</font>[<font style="color:rgb(9, 105, 218);">Visual Planning: Let’s Think Only with Images</font>](https://arxiv.org/abs/2505.11409)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/yix8/VisualPlanning)<font style="color:rgb(31, 35, 40);">】【图像思考：纯视觉规划，独立于文本】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【OpenThinkIMG】</font>[<font style="color:rgb(9, 105, 218);">OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning</font>](https://arxiv.org/abs/2505.08617)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Warrieryes/OpenThinkIMG-Chart-Qwen2-2B-VL)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Datasets</font>](https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/zhaochen0110/OpenThinkIMG)<font style="color:rgb(31, 35, 40);">】【图像思考：Agent，V-ToolRL】</font>
+
+<h3 id="j8ZCm">单模态虚假关联</h3>
+- [ ] 【2508】【LookBack】[Look-Back: Implicit Visual Re-focusing in MLLM Reasoning](https://arxiv.org/abs/2507.03019)【[Abstract](https://mp.weixin.qq.com/s/0Bko_eIH_z5oG499laWzBA)】
+- [ ] 【2503】【小红书：奖励模型虚假关联】[The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](https://arxiv.org/abs/2503.03122)【[Abstract](https://www.51cto.com/article/819040.html)】
+
+<h2 id="ft5i5"><font style="color:rgb(31, 35, 40);">Video（视频）</font><font style="color:rgb(31, 35, 40);"></font></h2>
+<h3 id="zMKVy"><font style="background-color:#FBDE28;">空间理解</font></h3>
+- [x] <font style="color:rgb(31, 35, 40);">【2507】【MindJourney】【NIPS25】</font>[MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://arxiv.org/abs/2507.12508)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://umass-embodied-agi.github.io/MindJourney/)<font style="color:rgb(31, 35, 40);">】</font>
+    - <u>世界模型+vlm促进空间推理 认知心理学中核心是构建认知地图，world model相当于直接想象画面，更直观，例如SpaceR则相当于文字形式，属于两种不同道路</u>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【SpaceR】【NIPS25】</font>[<font style="color:rgb(9, 105, 218);">SpaceR: Reinforcing MLLMs in Video Spatial Reasoning</font>](https://arxiv.org/abs/2504.01805v2)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/RUBBISHLIKE/SpaceR)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/RUBBISHLIKE/SpaceR-151k)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OuyangKun10/SpaceR)<font style="color:rgb(31, 35, 40);">】</font>
+    - 比较全面 包含grpo类强化学习 认知地图构建（文字版，json结构形式），完整开源数据等
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【OmniSpatial】【NIPS25】</font>[OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/abs/2506.03135)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://qizekun.github.io/omnispatial/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/qizekun/OmniSpatial)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/qizekun/OmniSpatial)<font style="color:rgb(31, 35, 40);">】</font>
+    - 主要做bench 分了很多类别 没太大用 数据构建可参考
+- [ ] <font style="color:rgb(31, 35, 40);">【2506】【MindCube】</font>[Spatial Mental Modeling from Limited Views](https://arxiv.org/pdf/2506.21458)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://mind-cube.github.io/)<font style="color:rgb(31, 35, 40);">】</font>
+    - **<font style="color:#DF2A3F;">李飞飞</font>**组 主要详细讨论认知地图的构建 感觉不如world model方法
+- [ ] <font style="color:rgb(31, 35, 40);">【2412】【VSIbench】</font>[Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/pdf/2412.14171)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://vision-x-nyu.github.io/thinking-in-space.github.io/)<font style="color:rgb(31, 35, 40);">】</font>
+    - **<font style="color:#DF2A3F;">李飞飞</font>**组 空间理解奠基性文章之一 vsibench基本属于空间理解必备实验 不过基本基于scannet（第一人称 室内）比较局限 且问题范式不够多样化 估计是暂时性的bench
+
+<h4 id="FImtN">利用[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)作为空间encoder：</h4>
+- [x] <font style="color:rgb(31, 35, 40);">【2505】【NIPS25】【VG-LLM】</font>[<font style="color:rgb(9, 105, 218);">Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors</font>](https://arxiv.org/abs/2505.24625)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/zd11024/vgllm-qa-vggt-4b)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/zd11024/VG-LLM-Data/tree/main)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/LaVi-Lab/VG-LLM)<font style="color:rgb(31, 35, 40);">】</font>
+    - 最中规中矩的做法 vggt输出特征直接投影到vision encoder同维度，暴力相加或concat，无RL，实测效果比不上原模型
+- [x] <font style="color:rgb(31, 35, 40);">【2505】【NIPS25】【Spatial-MLLM】</font>[<font style="color:rgb(9, 105, 218);">Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence</font>](https://arxiv.org/abs/2505.23747)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://diankun-wu.github.io/Spatial-MLLM/)<font style="color:rgb(31, 35, 40);">】</font>
+    - 模型架构和vgllm类似（额外添加一些抽帧策略），但数据集根据scannet自行构建，且包含cold start加grpo
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VLM-3R】</font>[<font style="color:rgb(9, 105, 218);">VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction</font>](https://arxiv.org/abs/2505.20279)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">blog</font>](https://vlm-3r.github.io/)<font style="color:rgb(31, 35, 40);">】</font>
+    - 类似上面俩 但encoder不是mlp 用的q-former来嵌入到llm 以及提出vstibench（时空类型mcq，vsibench此类时-空的数据较少）
+
+
+
+<h3 id="YIuS4">Video RL</h3>
+- [ ] 【2510】【综述】[Video-LMM后训练综述：GRPO强化学习驱动视频推理新范式](https://mp.weixin.qq.com/s/I1GX4jkv5Iy-A7IdS03jwA)
+
+<h3 id="KY0Ok">细粒度视频理解</h3>
+<h3 id="lKtDf">流式文本/视频理解</h3>
+<h5 id="ejOOm">视频流</h5>
+- [ ] 【2510】【RTFM】[RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm)【实时帧世界模型】
+- [ ] 【2510】【StreamingVLM】[StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
+- [ ] 【2509】【StreamForest】[StreamForest: Efficient Online Video Understanding with Persistent Event Memory](https://arxiv.org/abs/2509.24871v1)【[Abstract](https://www.xiaohongshu.com/user/profile/661eaea300000000030336cc?xsec_token=ABRD8Bqn7FMY3N7e59rrwAgCo6VuNmcCXmb7RBO1UsvrM=&xsec_source=pc_note)】
+- [ ] 【2504】【Streaming Multitask】【ICCV25】[Learning Streaming Video Representation via Multitask Training](https://arxiv.org/abs/2504.20041)【上交谢伟迪正在升级的工作】
+- [ ] 【2504】【LiveCC】【CVPR25】[LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale](https://arxiv.org/abs/2504.16030)【[Blog](https://showlab.github.io/livecc/)】
+- [ ] 【2406】【CVPR24】[VideoLLM-online: Online Video Large Language Model for Streaming Video](https://arxiv.org/abs/2406.11816)【[Code](https://github.com/showlab/videollm-online)】
+
+<h5 id="pWDGG">文本流</h5>
+- [ ] 【2309】【StreamingLLM】[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)【[Abstract](https://zhuanlan.zhihu.com/p/659875511)】【[Code](https://github.com/mit-han-lab/streaming-llm)】
+
+<h3 id="uOGpY">Chain of Frames</h3>
+- [ ] 【2510】【[Abstract](https://mp.weixin.qq.com/s/760f_XeAZhHd15T0hCnQlg)】【CoF 如何让帧间逻辑从「隐式对齐」变成「显式思考」】
+
+<h3 id="v7EQh">未归类</h3>
+- [x] <font style="color:rgb(31, 35, 40);background-color:#F9EFCD;">【2508】【SLFG】</font>[<font style="background-color:#F9EFCD;">Enhancing Long Video Question Answering with Scene-Localized Frame Grouping</font>](https://www.arxiv.org/abs/2508.03009)<font style="background-color:#F9EFCD;"> 【</font>[<font style="background-color:#F9EFCD;">Blog</font>](https://github.com/YXY0807/SLFG)<font style="background-color:#F9EFCD;">】【</font>[<font style="background-color:#F9EFCD;">Dataset</font>](https://disk.pku.edu.cn/anyshare/zh-cn/link/AAFA1110AC1B2E40B798679AB8FBA19573?_tb=none&expires_at=2029-10-12T14%3A45%3A35%2B08%3A00&item_type=file&password_required=false&title=LVSQA.zip&type=anonymous&verify_mobile=false)<font style="background-color:#F9EFCD;">】【Benchmark 论文】</font>
+- [ ] <font style="background-color:#FBDFEF;">【2507】【LLaVA-ST】</font>[<font style="background-color:#FBDFEF;">LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding</font>](https://arxiv.org/abs/2501.08282)<font style="background-color:#FBDFEF;"> 【</font>[<font style="background-color:#FBDFEF;">Code</font>](https://github.com/appletea233/LLaVA-ST)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Model</font>](about:blank)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Dataset</font>](https://huggingface.co/datasets/appletea2333/ST-Align-Dataset)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Benchmark</font>](https://huggingface.co/datasets/appletea2333/ST-Align-Benchmark)<font style="background-color:#FBDFEF;">】</font>
+- [ ] <font style="background-color:#FBDFEF;">【2507】【Time-R1】</font>[<font style="background-color:#FBDFEF;">Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding</font>](https://arxiv.org/abs/2503.13377)<font style="background-color:#FBDFEF;"> 【</font>[<font style="background-color:#FBDFEF;">Code</font>](https://github.com/xiaomi-research/time-r1)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Model</font>](https://huggingface.co/Boshenxx/Time-R1-7B)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Dataset</font>](https://huggingface.co/datasets/Boshenxx/TimeR1-Dataset)<font style="background-color:#FBDFEF;">】【</font>[<font style="background-color:#FBDFEF;">Blog</font>](https://xuboshen.github.io/Time-R1/)<font style="background-color:#FBDFEF;">】</font>
+- [ ] <font style="background-color:#FBDFEF;">【2507】【VideoExpert】</font>[<font style="background-color:#FBDFEF;">VideoExpert: Augmented LLM for Temporal-Sensitive Video Understanding</font>](https://arxiv.org/abs/2504.07519)<font style="background-color:#FBDFEF;"></font>
+- [ ] <font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">【2506】【DeepVideo-R1】</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO</font>](https://arxiv.org/abs/2506.07464)<font style="color:rgb(31, 35, 40);background-color:#FBDFEF;"> </font><font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">【</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">Code</font>](https://github.com/mlvlab/DeepVideoR1)<font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">【2506】【ReFoCUS】</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding</font>](https://arxiv.org/abs/2506.01274)
+- [ ] <font style="background-color:#FBF5CB;">【2506】【video-SALMONN 2】</font>[<font style="background-color:#FBF5CB;">video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models</font>](https://arxiv.org/abs/2506.01274)<font style="background-color:#FBF5CB;"> 【】【</font>[<font style="background-color:#FBF5CB;">Code</font>](https://github.com/bytedance/video-SALMONN-2?tab=readme-ov-file)<font style="background-color:#FBF5CB;">】【】</font>
+- [ ] 【2505】【TRACE】[TRACE: Temporal Grounding Video LLM via Causal Event Modeling](https://arxiv.org/abs/2410.05643)【[Code](https://github.com/gyxxyg/TRACE)】【[Model](https://huggingface.co/Yongxin-Guo/trace-uni)】【[Dataset](https://huggingface.co/datasets/Yongxin-Guo/TRACE)】
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【TW-GRPO】</font>[<font style="color:rgb(9, 105, 218);">Reinforcing Video Reasoning with Focused Thinking</font>](https://arxiv.org/abs/2505.24718)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Falconss1/TW-GRPO)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/longmalongma/TW-GRPO)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【Spatial-MLLM】</font>[<font style="color:rgb(9, 105, 218);">Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence</font>](https://arxiv.org/abs/2505.23747)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://diankun-wu.github.io/Spatial-MLLM/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Diankun/Spatial-MLLM-subset-sft)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/diankun-wu/Spatial-MLLM)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VAU-R1】</font>[<font style="color:rgb(9, 105, 218);">VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2505.23504)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Blog</font>](https://q1xiangchen.github.io/VAU-R1/)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/7xiang/VAU-Bench)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/GVCLab/VAU-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">【2505】【MUSEG】</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding</font>](https://arxiv.org/abs/2505.20715)<font style="color:rgb(31, 35, 40);background-color:#FBDFEF;"> 【</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">Models</font>](https://huggingface.co/Darwin-Project)<font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">】【</font>[<font style="color:rgb(9, 105, 218);background-color:#FBDFEF;">Code</font>](https://github.com/THUNLP-MT/MUSEG)<font style="color:rgb(31, 35, 40);background-color:#FBDFEF;">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2505】【VerIPO】</font>[<font style="color:rgb(9, 105, 218);">VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization</font>](https://arxiv.org/abs/2505.19000)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Uni-MoE/VerIPO-7B-v1.0)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/HITsz-TMG/VerIPO)<font style="color:rgb(31, 35, 40);">】</font>
+- [x] 【2504】【slow fast LLaVA】【keye1.5 使用了】【[Abstract](https://zhuanlan.zhihu.com/p/1891176458359136757)】
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【TinyLLaVA-Video-R1】</font>[<font style="color:rgb(9, 105, 218);">TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning</font>](https://arxiv.org/abs/2504.09641)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【VideoChat-R1】</font>[<font style="color:rgb(9, 105, 218);">VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning</font>](https://arxiv.org/abs/2504.06958)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/collections/OpenGVLab/videochat-r1-67fbe26e4eb08c83aa24643e)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OpenGVLab/VideoChat-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【Spatial-R1】</font>[<font style="color:rgb(9, 105, 218);">Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning</font>](https://arxiv.org/abs/2504.01805)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/OuyangKun10/Spatial-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2504】【R1-Zero-VSI】</font>[<font style="color:rgb(9, 105, 218);">Improved Visual-Spatial Reasoning via R1-Zero-Like Training</font>](https://arxiv.org/abs/2504.00883)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/zhijie-group/R1-Zero-VSI)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【SEED-Bench-R1】</font>[<font style="color:rgb(9, 105, 218);">Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1</font>](https://arxiv.org/abs/2503.24376)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/TencentARC/SEED-Bench-R1)<font style="color:rgb(31, 35, 40);">】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【Video-R1】</font>[<font style="color:rgb(9, 105, 218);">Video-R1: Reinforcing Video Reasoning in MLLMs</font>](https://arxiv.org/abs/2503.21776)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/Video-R1/Video-R1-7B)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Dataset</font>](https://huggingface.co/datasets/Video-R1/Video-R1-data)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/tulerfeng/Video-R1)<font style="color:rgb(31, 35, 40);">】【视频推理，OCR 奖励】</font>
+- [ ] <font style="color:rgb(31, 35, 40);">【2503】【TimeZero】</font>[<font style="color:rgb(9, 105, 218);">TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM</font>](https://arxiv.org/abs/2503.13377)<font style="color:rgb(31, 35, 40);"> 【</font>[<font style="color:rgb(9, 105, 218);">Code</font>](https://github.com/www-Ye/TimeZero)<font style="color:rgb(31, 35, 40);">】【</font>[<font style="color:rgb(9, 105, 218);">Model</font>](https://huggingface.co/wwwyyy/TimeZero-Charades-7B)<font style="color:rgb(31, 35, 40);">】【视频时序定位】</font>
+- [ ] 【2401】【TimeSuite】[TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning](https://arxiv.org/abs/2410.19702)【[Code](https://github.com/gyxxyg/TRACE)】【[Model](https://huggingface.co/Lanxingxuan/TimeSuite)】【[Dataset](https://huggingface.co/Lanxingxuan/TimeSuite/tree/main/datasets/TimePro)】
+- [ ] 【2411】【Seq2Time】[Seq2Time: Sequential Knowledge Transfer for Video LLM Temporal Grounding](https://arxiv.org/abs/2411.16932v1)
